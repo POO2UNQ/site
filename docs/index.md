@@ -22,8 +22,8 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 
 ---
 # Semana 2
-<!--- special completely
-d
+<!--- Aqui se comentan muchas lineas sin espacios
+Esto es util para el re huso del sitio el semestre que viene.
 d
 ignored comment --> 
 ---
