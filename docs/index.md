@@ -16,6 +16,16 @@ Ayus: Fabrizio Britez - Flavia Fernandez - Axel Agüero - Agustin Tupilojón - P
 Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/Aprobación%20de%20la%20materia%20-%202021.pdf)
 
 ---
-# Semana del 5 de abril
+# Semana 1
 
 * [TP 1 - Entrada en calor](https://github.com/POO2UNQ/site/tree/main/TP01)
+
+---
+# Semana 2
+
+---
+# Semana 3
+
+---
+# Semana 4
+
