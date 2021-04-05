@@ -18,6 +18,7 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 ---
 # Semana 1
 
+* [Video presentación](https://youtu.be/RBWa1uGstOA)
 * [TP 1 - Entrada en calor](https://github.com/POO2UNQ/site/tree/main/TP01)
 
 ---
