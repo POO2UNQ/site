@@ -5,3 +5,6 @@ Bienvenides a Objetos 2!
 Profes: Diego Cano - Matias Butti - Diego Torres
 
 Ayus: Fabrizio Britez - Flavia Fernandez - Axel Agüero - Agustin Tupilojón - Pablo Spizzamiglio
+
+# Aprobación de la materia 2021
+Aquí ese encuentra el documento 
