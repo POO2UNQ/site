@@ -1,8 +1,11 @@
 ## Objetos 2 - 1 er Semetre 2021
 Bienvenides a Objetos 2!
 
-Teóricos: Lunes 18 hs.     Prácticas sincrónicas: Comisión 1: Jueves de 15 a 18 hs. Comisión 2: Jueves de 18 a 21.
-Plataforma de comunicación: Slack (solicitar acceso a los profes)
+* Teóricos: Lunes 18 hs.     
+* Prácticas sincrónicas: 
+** Comisión 1: Jueves de 15 a 18 hs. 
+** Comisión 2: Jueves de 18 a 21.
+* Plataforma de comunicación: Slack (solicitar acceso a los profes)
 
 # Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
