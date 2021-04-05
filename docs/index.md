@@ -22,7 +22,10 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 
 ---
 # Semana 2
-
+<!--- special completely
+d
+d
+ignored comment --> 
 ---
 # Semana 3
 
