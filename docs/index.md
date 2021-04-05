@@ -1,4 +1,4 @@
-## Objetos 2 - 1 er Semetre 2021
+# Objetos 2 - 1 er Semetre 2021
 Bienvenides a Objetos 2!
 
 * Teóricos: Lunes 18 hs.     
@@ -7,24 +7,24 @@ Bienvenides a Objetos 2!
   * Comisión 2: Jueves de 18 a 21.
 * Plataforma de comunicación: Slack (solicitar acceso a los profes)
 
-# Docentes
+## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
 Ayus: Fabrizio Britez - Flavia Fernandez - Axel Agüero - Agustin Tupilojón - Pablo Spizzamiglio
 
-# Aprobación de la materia 2021
+## Aprobación de la materia 2021
 Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/Aprobación%20de%20la%20materia%20-%202021.pdf)
 
 ---
-# Semana 1
+## Semana 1
 
 * [TP 1 - Entrada en calor](https://github.com/POO2UNQ/site/tree/main/TP01)
 
 ---
-# Semana 2
+## Semana 2
 
 ---
-# Semana 3
+## Semana 3
 
 ---
 # Semana 4
