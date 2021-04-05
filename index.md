@@ -2,12 +2,6 @@
 Bienvenides a Objetos 2!
 
 # Docentes
-Diego Cano
-Matias Butti
-Diego Torres
+Profes: Diego Cano - Matias Butti - Diego Torres
 
-Fabrizio Britez
-Flavia Fernandez
-Axel Agüero
-Agustin Tupilojón
-Pablo Spizzamiglio
+Ayus: Fabrizio Britez - Flavia Fernandez - Axel Agüero - Agustin Tupilojón - Pablo Spizzamiglio
