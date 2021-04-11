@@ -29,7 +29,7 @@ d
 ignored comment --> 
 ## UML
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
-* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Fecha límite de entrega: Jueves 22 de abril 23:59 hs.
+* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha límite de entrega: Jueves 22 de abril 23:59 hs.
 
 ---
 # Semana 3
