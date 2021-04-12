@@ -27,6 +27,9 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 Esto es util para el re huso del sitio el semestre que viene.
 d
 ignored comment --> 
+## Configuración Inicial
+En el siguiente video explicamos como configurar JDK y Eclipse, crear un repositorio GIT y conectarlo para poder ir dejando todos los tps de la asignatura.
+[Configurando Eclipse y GIT para Objetos 2 UNQ](https://www.youtube.com/watch?v=3ITG-OFhThc)
 ## UML
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha límite de entrega: Jueves 22 de abril 23:59 hs.
