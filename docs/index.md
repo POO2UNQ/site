@@ -36,6 +36,10 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha límite de entrega: Jueves 22 de abril 23:59 hs.
 
+## Repaso de POO e intro a Java
+* [Video Clase Lunes 12 de Abril](https://www.youtube.com/watch?v=9_fLUcQy7Ys)
+* [Resolucion en vivo de un ejercicio con Java y TDD (primeros pasos)](https://www.youtube.com/watch?v=-DByRgl7K44) 
+
 ---
 # Semana 3
 
