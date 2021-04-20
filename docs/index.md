@@ -44,8 +44,8 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 # Semana 3
 
 ## Repaso de POO e intro a Java (2da parte)
-* [Video Clase Lunes 19 de Abril]()
-* [TP 03 ]()
+* [Video Clase Lunes 19 de Abril](https://youtu.be/uROXCHF8AG4)
+* [TP 03 ](https://docs.google.com/document/d/1zdiVCPTy0BULA_TzvQKgsOhI23TUkpp7yoHX61d6E1o/edit?usp=sharing)
 
 ---
 # Semana 4
