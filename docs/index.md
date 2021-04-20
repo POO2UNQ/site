@@ -47,6 +47,8 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 * [Video Clase Lunes 19 de Abril](https://youtu.be/uROXCHF8AG4)
 * [TP 03 ](https://docs.google.com/document/d/1zdiVCPTy0BULA_TzvQKgsOhI23TUkpp7yoHX61d6E1o/edit?usp=sharing)
 
+* Distribucion de docentes para entrega del TP 2. (publicacion en breve)
+
 ---
 # Semana 4
 
