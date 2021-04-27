@@ -50,5 +50,5 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 * [Distribucion de docentes para entrega del TP 2. ](https://github.com/POO2UNQ/site/blob/main/2021/2021%20Sem1%20OO2%20UNQ%20-%20Asignacion%20docentes.pdf)
 
 ---
-# Semana 4
+# Semana 4 
 * [TP – Clases Abstractas e Interfaces.pdf](https://github.com/POO2UNQ/site/files/6387818/TP.Clases.Abstractas.e.Interfaces.pdf)
