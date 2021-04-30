@@ -52,3 +52,4 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 ---
 # Semana 4 
 * [TP – Clases Abstractas e Interfaces.pdf](https://github.com/POO2UNQ/site/files/6387818/TP.Clases.Abstractas.e.Interfaces.pdf)
+* [Video Clase Lunes 26 de Abril](https://youtu.be/VRNaA7sCPlo)
