@@ -58,3 +58,4 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 # Semana 5
 * [Video clase SOLID](https://www.youtube.com/watch?v=KX4RTb15FNQ)
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
+* [Enunciado TP Final](https://github.com/POO2UNQ/site/blob/main/TP%20final%202021%201er%20sem/Trabajo%20Final%201er%20sem%202021.pdf)
