@@ -64,6 +64,7 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 # Semana 6
 * [TP Tests de Unidad, Test Doubles y TDD](https://github.com/POO2UNQ/site/blob/1c6c7d442c548946817d66fa7b7cfe5c9a2336b8/docs/Test-y-Test-Doubles.pdf)
 * [Video Mockito en Eclipse](https://www.youtube.com/watch?v=lEaMqDyhaFc)
+* [Biblioteca Mockito](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito) - [PPT explicacion](https://github.com/POO2UNQ/site/tree/main/mockito/mockito.pdf) - [Ejemplos de codigo](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 * [Enunciado TP Final](https://github.com/POO2UNQ/site/blob/main/TP%20final%202021%201er%20sem/Trabajo%20Final%201er%20sem%202021.pdf)
 * [Video Teoría Parte 1](https://www.youtube.com/watch?v=t7sP-e8DJdk)
 * [Video Teoría Parte 2](https://www.youtube.com/watch?v=i0LHhxSo19A)
