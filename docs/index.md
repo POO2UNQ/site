@@ -69,3 +69,7 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 * [Video Teoría Parte 1](https://www.youtube.com/watch?v=t7sP-e8DJdk)
 * [Video Teoría Parte 2](https://www.youtube.com/watch?v=i0LHhxSo19A)
 * [Video Teoría Parte 3](https://www.youtube.com/watch?v=Xv7ZLVycKz4)
+
+---
+# Semana 7
+* [Video clase Composite y Observer](https://youtu.be/t2QYiDuKUnE)
