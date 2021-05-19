@@ -73,3 +73,4 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 ---
 # Semana 7
 * [Video clase Composite y Observer](https://youtu.be/t2QYiDuKUnE)
+* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
