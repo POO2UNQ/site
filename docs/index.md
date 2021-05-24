@@ -75,3 +75,9 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 * [Video clase Composite y Observer](https://youtu.be/t2QYiDuKUnE)
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
+
+---
+# Semana 8
+* [Video clase Enumerativos-Streams-Patrón Template method-Patrón Adapter](https://youtu.be/7uEr0_E_ymQ)
+* [TP template method y adapter](https://github.com/POO2UNQ/site/blob/main/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
+
