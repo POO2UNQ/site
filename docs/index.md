@@ -81,3 +81,7 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 * [Video clase Enumerativos-Streams-Patrón Template method-Patrón Adapter](https://youtu.be/7uEr0_E_ymQ)
 * [TP template method y adapter](https://github.com/POO2UNQ/site/blob/main/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
 
+# Semana 9
+* [Video de la clase Patron State](https://youtu.be/kctVIoa_dis)
+* 
+
