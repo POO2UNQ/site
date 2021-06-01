@@ -83,5 +83,5 @@ En el siguiente video explicamos como configurar JDK y Eclipse, crear un reposit
 
 # Semana 9
 * [Video de la clase Patron State](https://youtu.be/kctVIoa_dis)
-* 
+* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
 
