@@ -1,5 +1,5 @@
 # Objetos 2 - 2do Semetre 2021
-Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 2021. La página al curso del semestre anterior es 
+Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 2021. La página al curso del semestre anterior es [1 er semestre 2021](https://github.com/POO2UNQ/site/blob/main/docs/index20212sem.md)
 
 * Teóricos: Lunes 18 hs.     
 * Prácticas sincrónicas: 
