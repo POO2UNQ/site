@@ -9,7 +9,7 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Flavia Fernandez - Axel Agüero - Agustin Tupilojón - Pablo Spizzamiglio
+Ayus: Fabrizio Britez - Flavia Fernandez - Axel Agüero - Agustin Tupilojón - Pablo Spizzamiglio - Damián Peñalver - Iñaki Javier Diaz - Marcos Demartino
 
 ## Aprobación de la materia 2021
 Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/Aprobación%20de%20la%20materia%20-%202021.pdf)
