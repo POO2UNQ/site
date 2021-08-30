@@ -17,6 +17,7 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 ---
 # Semana 1
 
+* [Clase Inaugural](https://youtu.be/WBptyni3ddc)
 * [TP 1 - Entrada en calor](https://github.com/POO2UNQ/site/tree/main/TP01)
 
 ---
