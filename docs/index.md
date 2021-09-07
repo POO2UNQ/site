@@ -25,3 +25,7 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha a definir en breve!!
 
 ---
+# Semana 2
+* [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/Teor%C3%ADas/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
+* [TP 3 - Intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/TP03/TP03%20-%20Intro%20a%20Java.pdf)
+---
