@@ -26,7 +26,7 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 
 ---
 # Semana 2
-* [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/Teor%C3%ADas/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
+* [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/606a8289ab7fca010acf0e98dd886ab31b54a747/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
 * [TP 3 - Intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/TP03/TP03%20-%20Intro%20a%20Java.pdf)
 ---
