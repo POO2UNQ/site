@@ -31,6 +31,6 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 * [TP 3 - Intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/TP03/TP03%20-%20Intro%20a%20Java.pdf)
 ---
 # Semana 3
-* [Clase 3 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
+* [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
 * [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
 ---
