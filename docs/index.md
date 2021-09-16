@@ -33,4 +33,5 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 # Semana 3
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
 * [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
+* [Git - desde la consola](https://www.youtube.com/watch?v=C-WgNtdGsR4)
 ---
