@@ -35,3 +35,6 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 * [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
 * [Git - desde la consola](https://www.youtube.com/watch?v=C-WgNtdGsR4)
 ---
+# Semana 4
+* [Teoría Clase 4 - Diseño por Capas, Clases Abstractas vs. Interfaces, Tipos](https://youtu.be/N_WAPHvcfIs)
+---
