@@ -44,3 +44,7 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 * [Clase Streams](https://github.com/POO2UNQ/site/blob/6ee33dc860a33d0d233993d59b9b07f5aee6316d/teorias/Streams.pdf)
 * [Clase Enums](https://github.com/POO2UNQ/site/blob/6ee33dc860a33d0d233993d59b9b07f5aee6316d/teorias/Enumerativos.pdf)
 ---
+# Senana 5
+* [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
+---
+
