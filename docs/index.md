@@ -43,8 +43,14 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/c290c2b8f90547decf0ac7db00de0c2e080ff8fe/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 * [Clase Streams](https://github.com/POO2UNQ/site/blob/6ee33dc860a33d0d233993d59b9b07f5aee6316d/teorias/Streams.pdf)
 * [Clase Enums](https://github.com/POO2UNQ/site/blob/6ee33dc860a33d0d233993d59b9b07f5aee6316d/teorias/Enumerativos.pdf)
+
 ---
 # Senana 5
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
+
 ---
+---
+# Semana 6
+* [Teoría Clase 6 - Tests de Unidad, Test Doubles, Trabajo Final]()
+* [TP - Test Doubles]()
 
