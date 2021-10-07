@@ -45,12 +45,11 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/A
 * [Clase Enums](https://github.com/POO2UNQ/site/blob/6ee33dc860a33d0d233993d59b9b07f5aee6316d/teorias/Enumerativos.pdf)
 
 ---
-# Senana 5
+# Semana 5
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
 
 ---
----
 # Semana 6
-* [Teoría Clase 6 - Tests de Unidad, Test Doubles, Trabajo Final]()
-* [TP - Test Doubles]()
+* [Teoría Clase 6 - Tests de Unidad, Test Doubles, Trabajo Final](https://youtu.be/NStb_2Mu27s)
+* [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 
