@@ -12,7 +12,7 @@ Profes: Diego Cano - Matias Butti - Diego Torres
 Ayus: Fabrizio Britez - Flavia Fernandez - Axel Agüero - Agustin Tupilojón - Pablo Spizzamiglio - Damián Peñalver - Marcos Demartino
 
 ## Aprobación de la materia 2021
-Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/main/Aprobación%20de%20la%20materia%20-%202021%202Sem.pdf)
+Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/92f82c188619a5db9819d81d0a0c63f071ed3ba7/Aprobacio%CC%81n%20de%20la%20materia%20-%202021%202Sem.pdf)
 
 ---
 # Semana 1
