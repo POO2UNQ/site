@@ -53,3 +53,8 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/92f82c
 * [Teoría Clase 6 - Tests de Unidad, Test Doubles, Trabajo Final](https://youtu.be/NStb_2Mu27s)
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 
+---
+# Semana 7
+* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/2021/TP_Final_2021_2doSem.pdf)
+
+
