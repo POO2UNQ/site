@@ -57,4 +57,11 @@ Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/92f82c
 # Semana 7
 * [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/2021/TP_Final_2021_2doSem.pdf)
 
+---
+# Semana 8
+Importante: el material de estudio, ademas de los apuntes de la teoria son los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
+* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
+* [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
+
+
 
