@@ -69,5 +69,10 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing)
 
+---
+# Semana 10
+* [State](https://www.youtube.com/watch?v=kctVIoa_dis)
+* [Strategy](https://www.youtube.com/watch?v=c19EpK0IwGI)
+
 
 
