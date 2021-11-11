@@ -78,6 +78,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 ---
 # Semana 11
 * [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
+* [Teoría Refactoring](https://youtu.be/CjVF1moOK78)
 
 
 
