@@ -74,5 +74,10 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [State](https://www.youtube.com/watch?v=kctVIoa_dis)
 * [Strategy](https://www.youtube.com/watch?v=c19EpK0IwGI)
 
+---
+# Semana 11
+* [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
+
+
 
 
