@@ -73,6 +73,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 # Semana 10
 * [State](https://www.youtube.com/watch?v=kctVIoa_dis)
 * [Strategy](https://www.youtube.com/watch?v=c19EpK0IwGI)
+* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
 
 ---
 # Semana 11
