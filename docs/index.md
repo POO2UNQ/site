@@ -1,18 +1,19 @@
-# Objetos 2 - 2do Semetre 2021
-Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 2021. La página al curso del semestre anterior es [1 er semestre 2021](https://github.com/POO2UNQ/site/blob/main/docs/index20212sem.md)
+# Objetos 2 - 1er Semetre 2022
+Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2022. La página al curso del semestre anterior es [2 do semestre 2021](https://github.com/POO2UNQ/site/blob/main/docs/index20212sem2.md)
 
 * Teóricos: Lunes 18 hs.     
 * Prácticas sincrónicas: 
-  * Comisión única: Jueves de 18 a 21 hs. 
+  * Comisión 1: Jueves de 15 a 18 hs. - Aula 60
+  * Comisión 2: Jueves de 18 a 21 hs. - Aula 60 
 * Plataforma de comunicación: Slack (solicitar acceso a los profes)
 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Flavia Fernandez - Axel Agüero - Agustin Tupilojón - Pablo Spizzamiglio - Damián Peñalver - Marcos Demartino
+Ayus: Fabrizio Britez - Flavia Fernandez - 
 
-## Aprobación de la materia 2021
-Aquí ese encuentra este [documento](https://github.com/POO2UNQ/site/blob/92f82c188619a5db9819d81d0a0c63f071ed3ba7/Aprobacio%CC%81n%20de%20la%20materia%20-%202021%202Sem.pdf)
+## Aprobación de la materia 2022
+Aquí ese encuentra este (En breve lo subiremos)
 
 ---
 # Semana 1
