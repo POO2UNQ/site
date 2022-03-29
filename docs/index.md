@@ -1,4 +1,4 @@
-# Objetos 2 - 1er Semetre 2022
+# Objetos 2 - 1er Semestre 2022
 Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2022. La página al curso del semestre anterior es [2 do semestre 2021](https://github.com/POO2UNQ/site/blob/main/docs/index20212sem2.md)
 
 * Teóricos: Lunes 18 hs.     
