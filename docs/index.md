@@ -18,7 +18,6 @@ Aquí ese encuentra este (En breve lo subiremos)
 ---
 # Semana 1
 
-* [Clase Inaugural](https://youtu.be/WBptyni3ddc)
 * [TP 1 - Entrada en calor](https://github.com/POO2UNQ/site/tree/main/TP01)
 
 ## UML
@@ -26,6 +25,7 @@ Aquí ese encuentra este (En breve lo subiremos)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha a definir en breve!!
 
 ---
+<!---
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/606a8289ab7fca010acf0e98dd886ab31b54a747/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
@@ -82,5 +82,5 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Teoría Refactoring](https://youtu.be/CjVF1moOK78)
 
 
-
+-->
 
