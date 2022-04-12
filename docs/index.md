@@ -22,7 +22,7 @@ Aquí ese encuentra este (En breve lo subiremos)
 
 ## UML
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
-* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha a definir en breve!!
+* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha de entrega: jueves 14/04/2022 hasta las 23.59. [Docente x Alumno](https://github.com/POO2UNQ/site/blob/main/TP%2002/2022-s1---Docente%20para%20correccion%20TP%20UML.pdf). Forma de entrega: subir PDF o imagen a GIT y enviar mensaje privado por Slack al docente que le tocó para la corrección.
 
 ---
 
