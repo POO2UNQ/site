@@ -10,7 +10,7 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Flavia Fernandez - 
+Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas Ziegemann
 
 ## Aprobación de la materia 2022
 Aquí ese encuentra este (En breve lo subiremos)
