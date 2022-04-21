@@ -1,19 +1,18 @@
 package unq.collections;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import org.junit.Before;
-import org.junit.Test;
-
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
 /**
- * Clase de test que ejercita una colecci�n de tipo java.util.ArrayList
+ * Clase de test que ejercita una colecciï¿½n de tipo java.util.ArrayList
  * con elementos de la clase Employee (empleado) definida en este mismo
  * package.
  * 
@@ -32,20 +31,20 @@ public class CollectionTest {
 	
 	
 	/**
-	 * Crea un escenario de test b�sico, el cual consiste en una colecci�n
+	 * Crea un escenario de test bï¿½sico, el cual consiste en una colecciï¿½n
 	 * con tres empleados que mantienen el orden en que fueron agregados.
 	 * 
 	 * @throws Exception
 	 */
-	@Before
+	@BeforeEach
 	public void setUp() throws Exception {
 		
-		// Creo una lista de empleados vac�a e inicializo la variable 
+		// Creo una lista de empleados vacï¿½a e inicializo la variable 
 		// de instancia previamente definida.
 		employees = new ArrayList<Employee>();
 		
 		// Creo el primer empleado y lo agrego a la lista.
-		employee1 = new Employee("Mart�n","Ballesteros", 1000.0);
+		employee1 = new Employee("Martï¿½n","Ballesteros", 1000.0);
 		employees.add(employee1);
 		
 		// Creo el segundo empleado y lo agrego a la lista (agrega al final de la misma). 
@@ -59,15 +58,15 @@ public class CollectionTest {
 
 	
 	/**
-	 * Muestra que el tama�o de la lista es el esperado.
+	 * Muestra que el tamaï¿½o de la lista es el esperado.
 	 */
 	@Test
 	public void testSize() {
 		
-		// Obtengo el tama�o de la colecci�n de empleados.
+		// Obtengo el tamaï¿½o de la colecciï¿½n de empleados.
 		int employeesCount = employees.size();
 		
-		// Testeo que el tama�o de la colecci�n sea correcto.
+		// Testeo que el tamaï¿½o de la colecciï¿½n sea correcto.
 		assertEquals(employeesCount, 3);
 	}
 
@@ -79,14 +78,14 @@ public class CollectionTest {
 	@Test
 	public void testOrder() {
 		
-		// Obtengo el primer elemento de la lista y chequeo que sea el primero que agregu� (employee1).
-		// Notar que las colecciones en Java comienzan en la posici�n 0.
+		// Obtengo el primer elemento de la lista y chequeo que sea el primero que agreguï¿½ (employee1).
+		// Notar que las colecciones en Java comienzan en la posiciï¿½n 0.
 		assertEquals(employees.get(0), employee1);
 
-		// Obtengo el segundo elemento de la lista y chequeo que sea el segundo que agregu� (employee2).
+		// Obtengo el segundo elemento de la lista y chequeo que sea el segundo que agreguï¿½ (employee2).
 		assertEquals(employees.get(1), employee2);
 		
-		// Obtengo el tercer elemento de la lista y chequeo que sea el tercero que agregu� (employee3).
+		// Obtengo el tercer elemento de la lista y chequeo que sea el tercero que agreguï¿½ (employee3).
 		assertEquals(employees.get(2), employee3);
 	}
 
@@ -106,13 +105,13 @@ public class CollectionTest {
 
 	
 	/**
-	 * Muestra el funcionamiento del borrado del �ltimo elemento de la lista.
+	 * Muestra el funcionamiento del borrado del ï¿½ltimo elemento de la lista.
 	 */
 	@Test
 	public void testRemoveLast() {
 
-		// Elimino el elemento que se encuentra en el �ltimo lugar de la lista.
-		// Recordar que la primera posici�n es la cero.
+		// Elimino el elemento que se encuentra en el ï¿½ltimo lugar de la lista.
+		// Recordar que la primera posiciï¿½n es la cero.
 		int index = employees.size() - 1;
 		employees.remove(index);
 		
@@ -127,8 +126,8 @@ public class CollectionTest {
 	@Test
 	public void testRemoveMiddle() {
 
-		// Elimino el elemento que se encuentra en la posici�n media de la lista (employee2).
-		// Recordar que la primera posici�n es la cero.
+		// Elimino el elemento que se encuentra en la posiciï¿½n media de la lista (employee2).
+		// Recordar que la primera posiciï¿½n es la cero.
 		int index = 1;
 		employees.remove(index);
 		
@@ -136,14 +135,14 @@ public class CollectionTest {
 		assertEquals(employees.size(), 2);
 		
 		// Chequeo que, ahora, el primer y tercer empleados agregados originalmente
-		// est�n en posiciones consecutivas (primera y segunda posici�n en la lista).
+		// estï¿½n en posiciones consecutivas (primera y segunda posiciï¿½n en la lista).
 		assertEquals(employees.get(0), employee1);
 		assertEquals(employees.get(1), employee3);		
 	}
 	
 	
 	/**
-	 * Muestra el agregado de un elemento en una posici�n determinada de la lista (y no 
+	 * Muestra el agregado de un elemento en una posiciï¿½n determinada de la lista (y no 
 	 * al final, como es por default).
 	 */
 	@Test
@@ -152,15 +151,15 @@ public class CollectionTest {
 		// Defino y creo un nuevo empleado.
 		Employee employee4 = new Employee("Adriana", "Cisneros", 4000.0);
 		
-		// Agrego el empleado en la segunda posici�n de la lista (lo cual genera un 
+		// Agrego el empleado en la segunda posiciï¿½n de la lista (lo cual genera un 
 		// desplazamiento de los elementos ya contenidos en ella).
 		employees.add(1, employee4);
 		
-		// Chequeo que la lista contenga un empleado m�s.
+		// Chequeo que la lista contenga un empleado mï¿½s.
 		assertEquals(employees.size(), 4);
 		
 		// Chequeo que el orden de los cuatro empleados en la lista sea el esperado, es decir:
-		// el reci�n creado en la segunda posici�n, habiendo desplazado a dos empleados originales.
+		// el reciï¿½n creado en la segunda posiciï¿½n, habiendo desplazado a dos empleados originales.
 		assertEquals(employees.get(0), employee1);
 		assertEquals(employees.get(1), employee4);		
 		assertEquals(employees.get(2), employee2);
@@ -169,7 +168,7 @@ public class CollectionTest {
 
 	
 	/**
-	 * Muestra el funcionamiento del chequeo por lista vac�a.
+	 * Muestra el funcionamiento del chequeo por lista vacï¿½a.
 	 */
 	@Test
 	public void testEmptyCollection() {
@@ -177,7 +176,7 @@ public class CollectionTest {
 		// Elimino todos los elementos de la lista.
 		employees.clear();
 		
-		// Chequeo si la lista est� vac�a.
+		// Chequeo si la lista estï¿½ vacï¿½a.
 		boolean empty = employees.isEmpty();
 
 		// Realizo el assert.
@@ -185,7 +184,7 @@ public class CollectionTest {
 	}
 	
 	/**
-	 * Muestra el funcionamiento del filtrado de una collecci�n con Lambda Expressions. Similar al select: de Smalltalk
+	 * Muestra el funcionamiento del filtrado de una collecciï¿½n con Lambda Expressions. Similar al select: de Smalltalk
 	 */
 	@Test
 	public void testFilterCollection() {
@@ -197,7 +196,7 @@ public class CollectionTest {
 	}
 	
 	/**
-	 * Muestra el funcionamiento del calculo de la suma de una collecci�n con Lambda Expressions. Similar al sum: de SmallTalk.
+	 * Muestra el funcionamiento del calculo de la suma de una collecciï¿½n con Lambda Expressions. Similar al sum: de SmallTalk.
 	 */
 	@Test
 	public void testSum() {
@@ -211,7 +210,7 @@ public class CollectionTest {
 	}
 	
 	/**
-	 * Muestra el funcionamiento de la iteracion de una collecci�n con Lambda Expressions. Similar al do: de SmallTalk.
+	 * Muestra el funcionamiento de la iteracion de una collecciï¿½n con Lambda Expressions. Similar al do: de SmallTalk.
 	 */
 	@Test
 	public void testForEach() {
@@ -227,7 +226,7 @@ public class CollectionTest {
 	}
 	
 	/**
-	 * Muestra el funcionamiento del calculo del promedio de una collecci�n con Lambda Expressions. Similar al average de SmallTalk.
+	 * Muestra el funcionamiento del calculo del promedio de una collecciï¿½n con Lambda Expressions. Similar al average de SmallTalk.
 	 */
 	@Test
 	public void testAverage() {
@@ -241,7 +240,7 @@ public class CollectionTest {
 	}
 	
 	/**
-	 * Muestra el funcionamiento de la obtenci�n del m�nimo o m�ximo de una collecci�n con Lambda Expressions. Similar al detectMax o detectMin de SmallTalk.
+	 * Muestra el funcionamiento de la obtenciï¿½n del mï¿½nimo o mï¿½ximo de una collecciï¿½n con Lambda Expressions. Similar al detectMax o detectMin de SmallTalk.
 	 */
 	@Test
 	public void testMinMax() {
@@ -254,7 +253,7 @@ public class CollectionTest {
 	}
 	
 	/**
-	 * Muestra el funcionamiento de la ordenaci�n de una collecci�n con Lambda Expressions. Similar al sort: de SmallTalk.
+	 * Muestra el funcionamiento de la ordenaciï¿½n de una collecciï¿½n con Lambda Expressions. Similar al sort: de SmallTalk.
 	 */
 	@Test
 	public void testSort() {
@@ -273,7 +272,7 @@ public class CollectionTest {
 		assertEquals(employees.get(2), employee1);
 	}
 	/**
-	 * Muestra el funcionamiento de la b�squeda del primer objeto que cumple con un predicado con Lambda Expressions. Similar al detect: de SmallTalk.
+	 * Muestra el funcionamiento de la bï¿½squeda del primer objeto que cumple con un predicado con Lambda Expressions. Similar al detect: de SmallTalk.
 	 */
 	@Test
 	public void testFindFirst() {
