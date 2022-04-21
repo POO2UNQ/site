@@ -1,7 +1,7 @@
 package unq.collections;
 
 /**
- * Clase que define un empleado b�sico de una empresa.
+ * Clase que define un empleado bï¿½sico de una empresa.
  * @author dcano
  *
  */
@@ -25,7 +25,7 @@ public class Employee {
 	
 	/**
 	 * Constructor. Crea una instancia de empleado a partir de los 
-	 * par�metros recibidos.
+	 * parï¿½metros recibidos.
 	 * 
 	 * @param name Nombre del empleado.
 	 * @param surname Apellido del empleado.
