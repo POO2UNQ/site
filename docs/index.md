@@ -38,16 +38,22 @@ Aquí ese encuentra este (En breve lo subiremos)
 * [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
 
 
-<!---
 ---
 # Semana 4
+* [TP - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
+
+* <!--- 
+  MATERIAL DE SEMESTRE ANTERIOR. No lo borro por las dudas, pero podemos sacarlo.
 * [Teoría Clase 4 - Diseño por Capas, Clases Abstractas vs. Interfaces, Tipos](https://youtu.be/N_WAPHvcfIs)
 * [Git - desde la consola](https://www.youtube.com/watch?v=C-WgNtdGsR4)
-* [TP - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/c290c2b8f90547decf0ac7db00de0c2e080ff8fe/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 * [Clase Streams](https://github.com/POO2UNQ/site/blob/6ee33dc860a33d0d233993d59b9b07f5aee6316d/teorias/Streams.pdf)
 * [Clase Enums](https://github.com/POO2UNQ/site/blob/6ee33dc860a33d0d233993d59b9b07f5aee6316d/teorias/Enumerativos.pdf)
+  -->
 
+
+
+<!---
 ---
 # Semana 5
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
