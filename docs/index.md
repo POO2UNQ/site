@@ -42,7 +42,7 @@ Aquí ese encuentra este (En breve lo subiremos)
 # Semana 4
 * [TP - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
 
-* <!--- 
+  <!--- 
   MATERIAL DE SEMESTRE ANTERIOR. No lo borro por las dudas, pero podemos sacarlo.
 * [Teoría Clase 4 - Diseño por Capas, Clases Abstractas vs. Interfaces, Tipos](https://youtu.be/N_WAPHvcfIs)
 * [Git - desde la consola](https://www.youtube.com/watch?v=C-WgNtdGsR4)
