@@ -48,7 +48,9 @@ Aquí ese encuentra este (En breve lo subiremos)
 # Semana 5
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin.
+
 <!---
+
 ---
 # Semana 6
 * [Teoría Clase 6 - Tests de Unidad, Test Doubles, Trabajo Final](https://youtu.be/NStb_2Mu27s)
