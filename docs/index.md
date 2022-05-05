@@ -43,19 +43,19 @@ Aquí ese encuentra este (En breve lo subiremos)
 * [TP - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
 
 
-
 ---
 # Semana 5
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin.
-
-<!---
 
 ---
 # Semana 6
 * [Teoría Clase 6 - Tests de Unidad, Test Doubles, Trabajo Final](https://youtu.be/NStb_2Mu27s)
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 
+
+
+<!---
 ---
 # Semana 7
 * [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/2021/TP_Final_2021_2doSem.pdf)
