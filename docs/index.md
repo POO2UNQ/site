@@ -50,7 +50,6 @@ Aquí ese encuentra este (En breve lo subiremos)
 
 ---
 # Semana 6
-* [Teoría Clase 6 - Tests de Unidad, Test Doubles, Trabajo Final](https://youtu.be/NStb_2Mu27s)
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 
 
