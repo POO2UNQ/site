@@ -52,33 +52,29 @@ Aquí ese encuentra este (En breve lo subiremos)
 # Semana 6
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 
-
-
-<!---
 ---
 # Semana 7
-* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/2021/TP_Final_2021_2doSem.pdf)
+* [Trabajo Final - Enunciado] En breve
 
----
-# Semana 8
 Importante: el material de estudio, ademas de los apuntes de la teoria son los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
 
+<!---
 ---
-# Semana 9
+# Semana 8
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing)
 
 ---
-# Semana 10
+# Semana 9
 * [State](https://www.youtube.com/watch?v=kctVIoa_dis)
 * [Strategy](https://www.youtube.com/watch?v=c19EpK0IwGI)
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
 
 ---
-# Semana 11
+# Semana 10
 * [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
 * [Teoría Refactoring](https://youtu.be/CjVF1moOK78)
 
