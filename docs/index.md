@@ -13,7 +13,7 @@ Profes: Diego Cano - Matias Butti - Diego Torres
 Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas Ziegemann
 
 ## Aprobación de la materia 2022
-[Link](https://github.com/POO2UNQ/site/blob/main/Aprobación%20de%20la%20materia%20-%202022%201Sem.pdf) . 
+[Link](https://github.com/POO2UNQ/site/blob/c2d09145e6425757088b281c86e74c30bd5c406d/Aprobacio%CC%81n%20de%20la%20materia%20-%202022%201Sem.pdf) . 
 
 ---
 # Semana 1
