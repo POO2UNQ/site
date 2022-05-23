@@ -68,13 +68,16 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 
-<!---
+
 ---
 # Semana 9
+Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [State](https://www.youtube.com/watch?v=kctVIoa_dis)
 * [Strategy](https://www.youtube.com/watch?v=c19EpK0IwGI)
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
 
+
+<!---
 ---
 # Semana 10
 * [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
