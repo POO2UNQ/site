@@ -77,12 +77,11 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
 
 
-<!---
+
 ---
 # Semana 10
 * [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
+<!---
 * [Teoría Refactoring](https://youtu.be/CjVF1moOK78)
-
-
 -->
 
