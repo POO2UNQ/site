@@ -1,4 +1,4 @@
-# Objetos 2 - 1er Semestre 2022
+# Objetos 2 - 2do Semestre 2022
 Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2022. La página al curso del semestre anterior es [2 do semestre 2021](https://github.com/POO2UNQ/site/blob/main/docs/index20212sem2.md)
 
 * Teóricos: Lunes 18 hs.     
@@ -15,6 +15,7 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 ## Aprobación de la materia 2022
 [Link](https://github.com/POO2UNQ/site/blob/c2d09145e6425757088b281c86e74c30bd5c406d/Aprobacio%CC%81n%20de%20la%20materia%20-%202022%201Sem.pdf) . 
 
+<!--
 ---
 # Semana 1
 
@@ -81,3 +82,5 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 ---
 # Semana 10
 * [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
+
+-->
