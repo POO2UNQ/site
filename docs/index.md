@@ -3,8 +3,8 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 
 
 * Teóricos: Lunes 18 hs.     
 * Prácticas sincrónicas: 
-  * Comisión 1: Jueves de 15 a 18 hs. - Aula 60
-  * Comisión 2: Jueves de 18 a 21 hs. - Aula 60 
+  * Comisión 1: Jueves de 15 a 18 hs. - Aula 38B
+  * Comisión 2: Jueves de 18 a 21 hs. - Aula 38B 
 * Plataforma de comunicación: Slack (solicitar acceso a los profes)
 
 ## Docentes
@@ -15,7 +15,7 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 ## Aprobación de la materia 2022
 [Link](https://github.com/POO2UNQ/site/blob/c2d09145e6425757088b281c86e74c30bd5c406d/Aprobacio%CC%81n%20de%20la%20materia%20-%202022%201Sem.pdf) . 
 
-<!--
+
 ---
 # Semana 1
 
@@ -23,8 +23,9 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 
 ## UML
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
-* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha límite para la entrega: jueves 14/04/2022 hasta las 23.59. Forma de entrega: subir PDF o imagen a GIT y enviar mensaje privado por Slack al [docente que le tocó para la corrección](https://github.com/POO2UNQ/site/blob/main/TP%2002/2022-s1---Docente%20para%20correccion%20TP%20UML.pdf).
+* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha límite para la entrega: jueves 08/09/2022 hasta las 23.59. Forma de entrega: subir PDF o imagen a GIT y enviar mensaje privado por Slack al [docente que le tocó para la corrección](https://github.com/POO2UNQ/site/blob/main/TP%2002/2022-s1---Docente%20para%20correccion%20TP%20UML.pdf).
 
+<!--
 ---
 
 # Semana 2
