@@ -25,7 +25,6 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha límite para la entrega: jueves 08/09/2022 hasta las 23.59. Forma de entrega: subir PDF o imagen a GIT y enviar mensaje privado por Slack al docente que le tocó para la corrección. (En breve publicaremos la lista)
 
-<!--
 ---
 
 # Semana 2
@@ -33,7 +32,7 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
 * [TP 3 - Intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/TP03/TP03%20-%20Intro%20a%20Java.pdf)
 
-
+<!--
 ---
 # Semana 3
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
