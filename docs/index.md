@@ -38,12 +38,13 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
 * [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
 
-<!--
+
 ---
 # Semana 4
 * [TP - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
+* [Slides usados en  la teoría](teorias/Contratos a traves de Interfaces. Inyección de dependencias.pdf)
 
-
+<!--
 ---
 # Semana 5
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
