@@ -44,6 +44,9 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 # Semana 4
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
 * [Slides usados en  la teoría](https://github.com/POO2UNQ/site/blob/eeb042bd0b56ef490fe35ff0cd1416a6e43ce281/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
+* [Slide de Streams] (https://docs.google.com/presentation/d/1dmBZ-Fezqaz4cta9sBeDj8MTaLmf7gJpmzzXab1hpW8/edit?usp=sharing)
+* [Slide de Enums] (https://docs.google.com/presentation/d/11SQg9NFDXB5GSVG5bEsGtMdtGjtC8y7OYwjUO3VnUjk/edit?usp=sharing)
+* [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 
 <!--
 ---
@@ -69,7 +72,7 @@ Importante: el material de estudio, ademas de los apuntes de la teoria son los c
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing)
-* [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
+
 
 
 ---
