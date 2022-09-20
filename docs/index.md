@@ -48,12 +48,13 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 
-<!--
+
 ---
 # Semana 5
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin.
 
+<!--
 ---
 # Semana 6
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
