@@ -54,11 +54,12 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin.
 
-<!--
+
 ---
 # Semana 6
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 
+<!--
 ---
 # Semana 7
 * [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/raw/main/A%20la%20caza%20de%20las%20vinchucas%202022.pdf)
