@@ -59,15 +59,17 @@ Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas
 # Semana 6
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 
-<!--
+
 ---
 # Semana 7
-* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/raw/main/A%20la%20caza%20de%20las%20vinchucas%202022.pdf)
+
 
 Importante: el material de estudio, ademas de los apuntes de la teoria son los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
 
+<!--
+* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/raw/main/A%20la%20caza%20de%20las%20vinchucas%202022.pdf)
 
 ---
 # Semana 8
