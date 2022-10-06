@@ -69,7 +69,7 @@ Importante: el material de estudio, ademas de los apuntes de la teoria son los c
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
 
 <!--
-* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/raw/main/A%20la%20caza%20de%20las%20vinchucas%202022.pdf)
+* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/TPFinal%202022%202sem%20-%20Ciencia%20Participativa%20y%20Juegos.pdf)
 
 ---
 # Semana 8
