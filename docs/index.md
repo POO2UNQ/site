@@ -68,9 +68,10 @@ Importante: el material de estudio, ademas de los apuntes de la teoria son los c
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
 
-<!--
+
 * [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/TPFinal%202022%202sem%20-%20Ciencia%20Participativa%20y%20Juegos.pdf)
 
+<!--
 ---
 # Semana 8
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
