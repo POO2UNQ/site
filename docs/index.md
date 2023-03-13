@@ -1,22 +1,22 @@
-# Objetos 2 - 2do Semestre 2022
-Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2022. La página al curso del semestre anterior es [2 do semestre 2021](https://github.com/POO2UNQ/site/blob/main/docs/index20212sem2.md)
+# Objetos 2 - 1er Semestre 2023
+Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2023. La página al curso del semestre anterior es [2 do semestre 2021](https://github.com/POO2UNQ/site/blob/main/docs/index20212sem2.md)
 
-* Teóricos: Lunes 18 hs.     
+* Teóricos: Lunes 18 hs aula 51.     
 * Prácticas sincrónicas: 
-  * Comisión 1: Jueves de 15 a 18 hs. - Aula 38B
-  * Comisión 2: Jueves de 18 a 21 hs. - Aula 38B 
-* Plataforma de comunicación: Slack (solicitar acceso a los profes)
+  * Comisión 1: Jueves de 15 a 18 hs. - Aula 37B
+  * Comisión 2: Jueves de 18 a 21 hs. - Aula 37B 
+* Plataforma de comunicación: Slack (Enviamos al email de inscripciones)
 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Axel Aguero - Juan Cruz Sanchez - Leonel Montiel - Lucas Ziegemann
+Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Borda - Leandro Tittarelli
 
 ## Aprobación de la materia 2022
 [LINK](https://github.com/POO2UNQ/site/blob/fc291ac3cf3ae8cdbf8069802e779da579867815/Aprobacio%CC%81n%20de%20la%20materia%20-%202022%202Sem.pdf)
 
 
-
+<!--
 ---
 # Semana 1
 
@@ -86,7 +86,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
 
-<!--
+
 
 ---
 # Semana 10
