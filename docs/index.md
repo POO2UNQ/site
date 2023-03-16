@@ -79,7 +79,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 <!-- * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) -->
 
 
-
+<!--
 ---
 # Semana 9
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
