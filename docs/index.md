@@ -12,11 +12,11 @@ Profes: Diego Cano - Matias Butti - Diego Torres
 
 Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Borda - Leandro Tittarelli
 
-## Aprobación de la materia 2022
-[LINK](https://github.com/POO2UNQ/site/blob/fc291ac3cf3ae8cdbf8069802e779da579867815/Aprobacio%CC%81n%20de%20la%20materia%20-%202022%202Sem.pdf)
+## Aprobación de la materia 2023 1er semestre
+[LINK](https://github.com/POO2UNQ/site/blob/9d2d585d25cdc57af0321fe9e1f6f16059d456df/Aprobacio%CC%81n%20de%20la%20materia%20-%202023%201Sem.pdf)
 
 
-<!--
+
 ---
 # Semana 1
 
@@ -24,8 +24,8 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 
 ## UML
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
-* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! Fecha límite para la entrega: jueves 08/09/2022 hasta las 23.59. Forma de entrega: subir PDF o imagen a GIT y enviar mensaje privado por Slack al docente que le tocó para la corrección. (En breve publicaremos la lista)
-
+* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega y formato de la entrega.
+<!--
 ---
 
 # Semana 2
