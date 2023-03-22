@@ -27,14 +27,13 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega y formato de la entrega.
 
 
-<!--
----
-
 # Semana 2
-* [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/main/teorias/Lenguajes%20de%20programación%20%20-%20Java%20-%20BigPicture.pdf)
+* [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
 * [TP 3 - Intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/TP03/TP03%20-%20Intro%20a%20Java.pdf)
 
+<!--
+---
 
 ---
 # Semana 3
