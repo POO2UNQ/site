@@ -10,7 +10,7 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Borda - Leandro Tittarelli
+Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Borda - Leandro Tittarelli - Juan García
 
 ## Aprobación de la materia 2023 1er semestre
 [LINK](https://github.com/POO2UNQ/site/blob/9d2d585d25cdc57af0321fe9e1f6f16059d456df/Aprobacio%CC%81n%20de%20la%20materia%20-%202023%201Sem.pdf)
