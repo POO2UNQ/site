@@ -36,13 +36,15 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
 * [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
 
-<!--
----
+
 
 
 ---
 # Semana 4
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
+
+<!--
+---
 * [Slides usados en  la teoría](https://github.com/POO2UNQ/site/blob/eeb042bd0b56ef490fe35ff0cd1416a6e43ce281/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
