@@ -36,14 +36,14 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
 * [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
 
-
-# Semana 4
-* [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
-* Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados por slack.
-
 ---
 # Semana 4
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
+
+
+# Semana 5
+* [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
+* Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados por slack.
 
 <!--
 ---
@@ -54,8 +54,6 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 
 
 ---
-# Semana 5
-
 
 ---
 # Semana 6
