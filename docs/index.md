@@ -37,7 +37,9 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
 
 
-
+# Semana 4
+* [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
+* Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados por slack.
 
 ---
 # Semana 4
@@ -53,8 +55,6 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 
 ---
 # Semana 5
-* [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
-* Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin.
 
 
 ---
