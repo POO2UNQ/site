@@ -45,6 +45,11 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados por slack.
 
+---
+# Semana 6
+* [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
+
+
 <!--
 ---
 * [Slides usados en  la teoría](https://github.com/POO2UNQ/site/blob/eeb042bd0b56ef490fe35ff0cd1416a6e43ce281/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
@@ -55,9 +60,7 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 
 ---
 
----
-# Semana 6
-* [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
+
 
 
 ---
