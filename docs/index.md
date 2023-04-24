@@ -48,6 +48,9 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 ---
 # Semana 6
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
+* [PPT - Mockito](https://github.com/POO2UNQ/site/blob/main/mockito/mockito.pdf)
+* [Mockito - Biblioteca](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito)
+* [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
 
 <!--
