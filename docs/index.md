@@ -55,11 +55,10 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 
-
 <!--
 ---
 * [Slides usados en  la teoría](https://github.com/POO2UNQ/site/blob/eeb042bd0b56ef490fe35ff0cd1416a6e43ce281/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
-
+-->
 
 ---
 
@@ -71,10 +70,11 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 
 
 Importante: el material de estudio, ademas de los apuntes de la teoria son los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
-* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
+
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
+* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy). Sólo el primer ejercicio (Encriptación), el resto será retomado cuando veamos otro patrón en la teoría.
 
-
+<!--
 * [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/TPFinal%202022%202sem%20-%20Ciencia%20Participativa%20y%20Juegos.pdf)
 
 
@@ -91,7 +91,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
-
+* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
 
 ---
