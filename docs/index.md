@@ -74,10 +74,10 @@ Importante: el material de estudio, ademas de los apuntes de la teoria son los c
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy). Sólo el primer ejercicio (Encriptación), el resto será retomado cuando veamos otro patrón en la teoría.
 
+
+* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/c572c9ad098e5b134aca5897e6b62f70eb0b6ce1/TP%20Integrador%202023/Trabajo%20Grupal%20%20A%20la%20caza%20de%20las%20vinchucas%202023.pdf)
+
 <!--
-* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/TPFinal%202022%202sem%20-%20Ciencia%20Participativa%20y%20Juegos.pdf)
-
-
 ---
 # Semana 8
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
