@@ -77,7 +77,7 @@ Importante: el material de estudio, ademas de los apuntes de la teoria son los c
 # Trabajo final - Vinchucas
 * [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/c572c9ad098e5b134aca5897e6b62f70eb0b6ce1/TP%20Integrador%202023/Trabajo%20Grupal%20%20A%20la%20caza%20de%20las%20vinchucas%202023.pdf)
 
-<!--
+
 ---
 # Semana 8
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
@@ -85,7 +85,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
 
 
-
+<!--
 ---
 # Semana 9
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
