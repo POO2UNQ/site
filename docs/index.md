@@ -85,7 +85,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
 
 
-<!--
+
 ---
 # Semana 9
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
@@ -93,7 +93,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
-
+<!--
 ---
 # Semana 10
 * [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
