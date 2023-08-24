@@ -60,7 +60,7 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 <!--
 ---
 * [Slides usados en  la teoría](https://github.com/POO2UNQ/site/blob/eeb042bd0b56ef490fe35ff0cd1416a6e43ce281/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
--->
+
 
 ---
 
@@ -95,7 +95,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
-<!--
+
 ---
 # Semana 10
 * [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
