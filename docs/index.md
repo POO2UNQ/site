@@ -38,7 +38,7 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 
 # Semana 3
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
-* [TP 4 - Intro a Java](https://drive.google.com/drive/folders/1OB2GWBO5rKLoybPt0599fQ3GYTqonkJv?usp=drive_link)
+* [TP 4 - Java POO](https://drive.google.com/drive/folders/1OB2GWBO5rKLoybPt0599fQ3GYTqonkJv?usp=drive_link)
   
 <!--
 ---
