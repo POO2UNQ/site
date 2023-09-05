@@ -35,11 +35,12 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [TP 3 - Intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/TP03/TP03%20-%20Intro%20a%20Java.pdf)
 * [ GIT - Uso desde la consola ](https://www.youtube.com/watch?v=C-WgNtdGsR4)
 
-<!--
+
 # Semana 3
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
-* [TP 4 - Intro a Java](https://github.com/POO2UNQ/site/tree/main/TP04)
-
+* [TP 4 - Intro a Java](https://drive.google.com/drive/folders/1OB2GWBO5rKLoybPt0599fQ3GYTqonkJv?usp=drive_link)
+  
+<!--
 ---
 # Semana 4
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
