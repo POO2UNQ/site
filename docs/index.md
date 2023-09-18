@@ -46,7 +46,7 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 
 <!--
 # Semana 5
-* [TP SOLID](https://github.com/POO2UNQ/site/tree/main/TP%20SOLID)
+* [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados por slack.
 
 ---
