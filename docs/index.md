@@ -59,7 +59,6 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [Mockito - Biblioteca](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito)
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
----
 # Semana 7
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
