@@ -69,7 +69,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Clase Composite](https://github.com/POO2UNQ/site/blob/29a8424866c71c78e57dd1301de9a4612a253469/Teor%C3%ADa%20Composite.pdf)
 * [Clase State](https://github.com/POO2UNQ/site/blob/29a8424866c71c78e57dd1301de9a4612a253469/Teor%C3%ADa%20State.pdf)
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
-* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy). Sólo el primer ejercicio (Encriptación), el resto será retomado cuando veamos otro patrón en la teoría.
+* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy). Sólo el ejercicio que corresponde al patrón State.
 
 
 
