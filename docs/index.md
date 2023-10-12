@@ -72,7 +72,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy). Sólo el ejercicio que corresponde al patrón State.
 
 # Trabajo final - Terminal Portuaria
-* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/c572c9ad098e5b134aca5897e6b62f70eb0b6ce1/TP%20Integrador%202023/Trabajo Final 2do Sem 2023 - Terminal Portuaria.pdf)
+* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/TP%20Integrador%202023/Trabajo%20Final%202do%20Sem%202023%20-%20Terminal%20Portuaria.pdf)
 
 
 
