@@ -79,7 +79,6 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
 # Semana 10
-
 * [Clase téorica sobre introducción a arquitectura](https://drive.google.com/file/d/1JUvUj0hhvCTpnh-JeUEH5Pd_fCTmM27Y/view?usp=drive_link)
 
 <!--
