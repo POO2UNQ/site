@@ -1,19 +1,21 @@
-# Objetos 2 - 2do Semestre 2023
-Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 2023. La página al curso del semestre anterior es [2 do semestre 2021](https://github.com/POO2UNQ/site/blob/main/docs/index20212sem2.md)
+# Objetos 2 - 1er Semestre 2024
+Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2024.
 
 * Teóricos: Lunes 18 hs aula 51.     
-* Prácticas sincrónicas: 
-  * Comisión 1: Jueves de 15 a 18 hs. - Aula 37B
-  * Comisión 2: Jueves de 18 a 21 hs. - Aula 37B 
+* Prácticas sincrónicas presenciales (cada 15 dias comienza el jueves 14 de marzo)
+  * Comisión 1: Jueves de 15 a 18 hs. - Aula 60
+  * Comisión 2: Jueves de 18 a 21 hs. - Aula 60
+  * Virtual la semana que no es presencial de 16:30 a 19:30 . 
 * Plataforma de comunicación: Slack (Enviamos al email de inscripciones)
 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Borda - Leandro Tittarelli - Juan García
+Ayus: Fabrizio Britez - Elias Baron - Ezequiel Gonzalez - Elian - Rodrigo - Ezequiel Cuevas
 
-## Aprobación de la materia 2023 2do semestre
-([Aprobación de la materia - 2023 2do Sem.pdf](https://github.com/POO2UNQ/site/blob/e14261eacb31fa9c7190226bd8d33b20f7c38d79/Aprobacio%CC%81n%20de%20la%20materia%20-%202023%202do%20Sem.pdf))
+## Aprobación de la materia 2024 1er semestre
+
+* en breve subiremos esta informacion. 
 
 
 ---
@@ -25,7 +27,7 @@ Ayus: Fabrizio Britez - Dobrotinich, Manuel Vladimir - Elian camilo alejandro Bo
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega y formato de la entrega.
 
-
+<!--
 
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
@@ -81,7 +83,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 # Semana 10
 * [Clase téorica sobre introducción a arquitectura](https://drive.google.com/file/d/1JUvUj0hhvCTpnh-JeUEH5Pd_fCTmM27Y/view?usp=drive_link)
 
-<!--
+
 ---
 * [Slides usados en  la teoría](https://github.com/POO2UNQ/site/blob/eeb042bd0b56ef490fe35ff0cd1416a6e43ce281/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
 ---
