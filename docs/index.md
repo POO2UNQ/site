@@ -49,7 +49,7 @@ Ayus: Fabrizio Britez - Elias Baron - Ezequiel Gonzalez - Elian - Rodrigo - Ezeq
 * [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados en el mismo TP.
 
-<!--
+
 
 # Semana 6
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
@@ -58,6 +58,11 @@ Ayus: Fabrizio Britez - Elias Baron - Ezequiel Gonzalez - Elian - Rodrigo - Ezeq
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 * [Mockito - Eplicacion del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
 * [PPT - Mockito](https://github.com/POO2UNQ/site/blob/main/mockito/mockito.pdf)
+
+
+<!--
+
+
 * [Mockito - Biblioteca](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito)
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
