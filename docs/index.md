@@ -61,10 +61,10 @@ Ayus: Fabrizio Britez - Elias Baron - Ezequiel Gonzalez - Elian - Rodrigo - Ezeq
 
 
 
-
-
+<!--
 * [Mockito - Biblioteca](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito)
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
+--> 
 
 # Semana 7
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
