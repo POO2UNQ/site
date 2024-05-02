@@ -58,7 +58,7 @@ Ayus: Fabrizio Britez - Elias Baron - Ezequiel Gonzalez - Elian - Rodrigo - Ezeq
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 * [Mockito - Eplicacion del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
 * [PPT - Mockito](https://github.com/POO2UNQ/site/blob/main/mockito/mockito.pdf)
-
+* [TP Final SEM](https://github.com/POO2UNQ/site/blob/ed78731bf188f940ab47d5943c98d42019c251e0/TP%202024%201%20sem/TP_Final.docx.pdf)
 
 
 <!--
