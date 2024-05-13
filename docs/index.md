@@ -76,7 +76,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP Final SEM](https://github.com/POO2UNQ/site/blob/ed78731bf188f940ab47d5943c98d42019c251e0/TP%202024%201%20sem/TP_Final.docx.pdf)
 
 
-<!--
+
 # Semana 8
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [Clase Composite](https://github.com/POO2UNQ/site/blob/29a8424866c71c78e57dd1301de9a4612a253469/Teor%C3%ADa%20Composite.pdf)
@@ -84,12 +84,11 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy). Sólo el ejercicio que corresponde al patrón State.
 
-# Trabajo final - Terminal Portuaria
-* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/main/TP%20Integrador%202023/Trabajo%20Final%202do%20Sem%202023%20-%20Terminal%20Portuaria.pdf)
-
 # Semana 9
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
+
+<!--
 
 # Semana 10
 * [Clase téorica sobre introducción a arquitectura](https://drive.google.com/file/d/1JUvUj0hhvCTpnh-JeUEH5Pd_fCTmM27Y/view?usp=drive_link)
