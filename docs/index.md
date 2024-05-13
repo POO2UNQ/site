@@ -15,7 +15,9 @@ Ayus: Fabrizio Britez - Elias Baron - Ezequiel Gonzalez - Elian - Rodrigo - Ezeq
 
 ## Aprobación de la materia 2024 1er semestre
 
-* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/53ef43ec22b6883ae4a78b12ce2000f6ea7b9392/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202024%201er%20Sem.pdf)
+* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/634ff60f50863bd693e64615ca222adc0f079fc2/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202024%201er%20Sem.pdf)
+
+* 
 
 
 ---
