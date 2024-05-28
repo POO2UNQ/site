@@ -88,6 +88,12 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
+# Semana 10
+* [Examen resuelto: Empresa Ingenieria](https://github.com/POO2UNQ/site/tree/main/examenes/Empresa-Ingenieria)
+* [Explicación examen resuelto Empresa Ingenieria](https://drive.google.com/file/d/1D6SMJNm3xAPuqHfwKWCb6PrEbOS-x_-C/view?usp=drive_link)
+
+<!-- * [Examen resuelto: Aeropuerto](https://github.com/POO2UNQ/site/tree/main/examenes/airport). Nota: Hay publicadas dos soluciones similares, ambas validas. -->
+  
 <!--
 
 # Semana 10
