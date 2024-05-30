@@ -92,7 +92,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Examen resuelto: Empresa Ingenieria](https://github.com/POO2UNQ/site/tree/main/examenes/Empresa-Ingenieria)
 * [Explicación examen resuelto Empresa Ingenieria](https://drive.google.com/file/d/1D6SMJNm3xAPuqHfwKWCb6PrEbOS-x_-C/view?usp=drive_link)
 
-<!-- * [Examen resuelto: Aeropuerto](https://github.com/POO2UNQ/site/tree/main/examenes/airport). Nota: Hay publicadas dos soluciones similares, ambas validas. -->
+* [Examen resuelto: Aeropuerto](https://github.com/POO2UNQ/site/tree/main/examenes/airport). Nota: Hay publicadas dos soluciones similares, ambas validas.
   
 <!--
 
