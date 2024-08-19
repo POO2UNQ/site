@@ -3,8 +3,8 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 2do. semestre del
 
 * Teóricos: Lunes 18 hs aula 51.     
 * Prácticas sincrónicas presenciales (primera clase jueves 29 de Agosto de 2024)
-  * Comisión 1: Jueves de 15 a 18 hs. - Aula 60
-  * Comisión 2: Jueves de 18 a 21 hs. - Aula 60
+  * Comisión 1: Jueves de 15 a 18 hs. - Aula 121
+  * Comisión 2: Jueves de 18 a 21 hs. - Aula 121
   * Virtual la semana que no es presencial de 16:30 a 19:30 (inicia jueves 22/8/2024). 
 * Plataforma de comunicación: Discord - https://discord.gg/33uDZFFZ
 
