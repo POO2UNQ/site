@@ -65,10 +65,10 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
 
-<!--
-* [Mockito - Biblioteca](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito)
-* [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
---> 
+
+-- [Mockito - Biblioteca](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito)
+-- [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
+ 
 
 # Semana 7
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
@@ -95,7 +95,6 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 
 * [Examen resuelto: Aeropuerto](https://github.com/POO2UNQ/site/tree/main/examenes/airport). Nota: Hay publicadas dos soluciones similares, ambas validas.
   
-<!--
 
 # Semana 10
 * [Clase téorica sobre introducción a arquitectura](https://drive.google.com/file/d/1JUvUj0hhvCTpnh-JeUEH5Pd_fCTmM27Y/view?usp=drive_link)
