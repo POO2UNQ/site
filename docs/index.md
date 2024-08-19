@@ -13,11 +13,9 @@ Profes: Diego Cano - Matias Butti - Diego Torres
 
 Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños
 
-## Aprobación de la materia 2024 1er semestre
+## Aprobación de la materia 2024 2do semestre
 
 * [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/46c84de53cc335de81a317e309be701174b45ffe/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202024%201er%20Sem-2.pdf)
-
-* 
 
 
 ---
