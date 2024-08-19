@@ -15,7 +15,7 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños
 
 ## Aprobación de la materia 2024 2do semestre
 
-* * [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/9925ab45bebdf834db5cb516f64db5f0cb453091/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202024%202do%20Sem.pdf)
+* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/9925ab45bebdf834db5cb516f64db5f0cb453091/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202024%202do%20Sem.pdf)
 
 
 ---
