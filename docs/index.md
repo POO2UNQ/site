@@ -1,17 +1,17 @@
-# Objetos 2 - 1er Semestre 2024
-Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2024.
+# Objetos 2 - 2do Semestre 2024
+Bienvenides a Objetos 2! Este es la página correspondiente al 2do. semestre del 2024.
 
 * Teóricos: Lunes 18 hs aula 51.     
-* Prácticas sincrónicas presenciales (cada 15 dias comienza el jueves 14 de marzo)
+* Prácticas sincrónicas presenciales (primera clase jueves 29 de Agosto de 2024)
   * Comisión 1: Jueves de 15 a 18 hs. - Aula 60
   * Comisión 2: Jueves de 18 a 21 hs. - Aula 60
-  * Virtual la semana que no es presencial de 16:30 a 19:30 . 
-* Plataforma de comunicación: Slack (Enviamos al email de inscripciones)
+  * Virtual la semana que no es presencial de 16:30 a 19:30 (inicia jueves 22/8/2024). 
+* Plataforma de comunicación: Discord - https://discord.gg/33uDZFFZ
 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Elias Baron - Ezequiel Gonzalez - Elian - Rodrigo - Ezequiel Cuevas
+Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños
 
 ## Aprobación de la materia 2024 1er semestre
 
@@ -29,6 +29,7 @@ Ayus: Fabrizio Britez - Elias Baron - Ezequiel Gonzalez - Elian - Rodrigo - Ezeq
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega y formato de la entrega.
 
+<!--
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
