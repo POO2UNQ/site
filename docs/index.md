@@ -11,7 +11,7 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 2do. semestre del
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso
+Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - Elias Baron
 
 ## Aprobación de la materia 2024 2do semestre
 
