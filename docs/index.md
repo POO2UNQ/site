@@ -50,9 +50,13 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - E
 * [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados en el mismo TP.
 
-<!--
 
 # Semana 6
+Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
+* [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
+* [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
+
+<!--
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
@@ -69,9 +73,6 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - E
  
 
 # Semana 7
-Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
-* [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
-* [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
 * [TP Final SEM](https://github.com/POO2UNQ/site/blob/ed78731bf188f940ab47d5943c98d42019c251e0/TP%202024%201%20sem/TP_Final.docx.pdf)
 
 
