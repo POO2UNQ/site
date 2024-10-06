@@ -69,19 +69,18 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
 # Semana 7
+Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
+* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy).
 * [TP Final Sistema de Alquileres](https://github.com/POO2UNQ/site/blob/ae935c656d9f368953ed28e21a7f76a6c0662cc5/TP%20Integradores/TrabajoFinal_2doSem_2024.pdf)
 
-<!--
 # Semana 8
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
-* [Clase Composite](https://github.com/POO2UNQ/site/blob/29a8424866c71c78e57dd1301de9a4612a253469/Teor%C3%ADa%20Composite.pdf)
-* [Clase State](https://github.com/POO2UNQ/site/blob/29a8424866c71c78e57dd1301de9a4612a253469/Teor%C3%ADa%20State.pdf)
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
-* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy). Sólo el ejercicio que corresponde al patrón State.
-
-# Semana 9
-Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
+
+<!--
+# Semana 9
+El contenido que estaba acá se pasó a las semanas 7 y 8-
 
 # Semana 10
 * [Examen resuelto: Empresa Ingenieria](https://github.com/POO2UNQ/site/tree/main/examenes/Empresa-Ingenieria)
