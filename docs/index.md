@@ -69,8 +69,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
 # Semana 7
--- [TP Final SEM](https://github.com/POO2UNQ/site/blob/ed78731bf188f940ab47d5943c98d42019c251e0/TP%202024%201%20sem/TP_Final.docx.pdf)
-[TP Final](https://github.com/POO2UNQ/site/TP Integradores/TrabajoFinal_2doSem_2024.pdf)
+* [TP Final Sistema de Alquileres](https://github.com/POO2UNQ/site/blob/ae935c656d9f368953ed28e21a7f76a6c0662cc5/TP%20Integradores/TrabajoFinal_2doSem_2024.pdf)
 
 <!--
 # Semana 8
