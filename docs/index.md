@@ -68,12 +68,6 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Mockito - Biblioteca v5](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito/Mockito%20v5)
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
-
- 
-
--- [xMockito - Biblioteca](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito)
--- [xEjemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
-
 # Semana 7
 -- [TP Final SEM](https://github.com/POO2UNQ/site/blob/ed78731bf188f940ab47d5943c98d42019c251e0/TP%202024%201%20sem/TP_Final.docx.pdf)
 [TP Final](https://github.com/POO2UNQ/site/TP Integradores/TrabajoFinal_2doSem_2024.pdf)
