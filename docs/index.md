@@ -65,7 +65,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 * [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
 * [PPT - Mockito](https://github.com/POO2UNQ/site/blob/main/mockito/mockito.pdf)
-* [Mockito - Biblioteca v5](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito/Mockito%20v5)
+* [Mockito - Biblioteca v5.14](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito/Mockito%20v5.14)
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
 # Semana 7
