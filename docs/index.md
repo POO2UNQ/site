@@ -11,7 +11,7 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
-Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - Elias Baron
+Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - Elias Baron - Lucila Coniglio
 
 ## Aprobación de la materia 2025 1er semestre
 
