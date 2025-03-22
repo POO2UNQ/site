@@ -1,21 +1,21 @@
-# Objetos 2 - 2do Semestre 2024
-Bienvenides a Objetos 2! Este es la página correspondiente al 2do. semestre del 2024.
+# Objetos 2 - 1er Semestre 2025
+Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2025.
 
 * Teóricos: Lunes 18 hs aula 51.     
-* Prácticas sincrónicas presenciales (primera clase jueves 29 de Agosto de 2024)
-  * Comisión 1: Jueves de 15 a 18 hs. - Aula 121
-  * Comisión 2: Jueves de 18 a 21 hs. - Aula 121
-  * Virtual la semana que no es presencial de 16:30 a 19:30 (inicia jueves 22/8/2024). 
-* Plataforma de comunicación: Discord - https://discord.gg/33uDZFFZ
+* Prácticas sincrónicas presenciales (primera clase jueves 3 de Abril de 2025)
+  * Comisión 1: Jueves de 15 a 18 hs. - Aula 60
+  * Comisión 2: Jueves de 18 a 21 hs. - Aula 60
+  * Virtual la semana que no es presencial de 16:30 a 19:30 (inicia jueves 27 de marzo 2025). 
+* Plataforma de comunicación: Discord 
 
 ## Docentes
 Profes: Diego Cano - Matias Butti - Diego Torres
 
 Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - Elias Baron
 
-## Aprobación de la materia 2024 2do semestre
+## Aprobación de la materia 2025 1er semestre
 
-* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/9925ab45bebdf834db5cb516f64db5f0cb453091/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202024%202do%20Sem.pdf)
+* [Aprobación de la materia] Proximamente
 
 
 ---
@@ -27,7 +27,7 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - E
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega y formato de la entrega.
 
-
+<!--
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
@@ -78,7 +78,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
-<!--
+
 # Semana 9
 El contenido que estaba acá se pasó a las semanas 7 y 8-
 
