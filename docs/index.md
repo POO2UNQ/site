@@ -15,7 +15,7 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - E
 
 ## Aprobación de la materia 2025 1er semestre
 
-* [Aprobación de la materia] (https://github.com/POO2UNQ/site/blob/57056cbb9569e98c770427096487f0433ea12dd1/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202025%201er%20Sem-2.pdf)
+* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/57056cbb9569e98c770427096487f0433ea12dd1/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202025%201er%20Sem-2.pdf)
 
 
 ---
