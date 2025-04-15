@@ -32,7 +32,7 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - E
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
 * [TP 3 - Intro a Java](https://github.com/POO2UNQ/site/blob/a75e0da36670c3377f275343386f9497feca1df3/TP03/TP03%20-%20Intro%20a%20Java.pdf)
 
-<!--
+
 * [ GIT - Uso desde la consola ](https://www.youtube.com/watch?v=C-WgNtdGsR4)
 
 
@@ -46,7 +46,7 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - E
 * [Contrato a través de interfaces](https://github.com/POO2UNQ/site/blob/0c5e1ca5ded991534aefd28b5a531140a412f748/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
 
-
+<!--
 # Semana 5
 * [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados en el mismo TP.
