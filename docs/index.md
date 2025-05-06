@@ -57,7 +57,7 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - E
 # Semana 6
 Importante: para la resolución del TP es obligatorio complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
-* [TP State](TP State y Strategy/TP State.pdf)
+* [TP State]([TP State y Strategy/TP State.pdf](https://github.com/POO2UNQ/site/blob/24f0b83e9479b5db85dffab2bf7e62465389b2c8/TP%20State%20y%20Strategy/TP%20State.pdf))
 
 <!--
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
