@@ -59,6 +59,12 @@ Importante: para la resolución del TP es obligatorio complementar los apuntes d
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
 * [TP State](https://github.com/POO2UNQ/site/blob/24f0b83e9479b5db85dffab2bf7e62465389b2c8/TP%20State%20y%20Strategy/TP%20State.pdf)
 
+Test Doubles & Mockito:
+* [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
+* [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
+* [PPT - Mockito](https://github.com/POO2UNQ/site/blob/main/mockito/mockito.pdf)
+* [Mockito - Biblioteca v5.14](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito/Mockito%20v5.14)
+* [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 <!--
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
 * [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
