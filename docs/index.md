@@ -80,7 +80,8 @@ Test Doubles & Mockito:
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 
-* [TP Integrador](https://github.com/POO2UNQ/site/blob/488e5f3f6379795236f174e46ecd20d8ddee7f37/TP%202025%201er%20sem/A%20la%20caza%20de%20las%20vinchucas.pdf)
+## TP Integrador - Vinchuchas
+[TP Integrador](https://github.com/POO2UNQ/site/blob/488e5f3f6379795236f174e46ecd20d8ddee7f37/TP%202025%201er%20sem/A%20la%20caza%20de%20las%20vinchucas.pdf)
 
 <!--
 
