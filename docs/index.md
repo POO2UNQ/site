@@ -83,6 +83,11 @@ Test Doubles & Mockito:
 ## TP Integrador - Vinchuchas
 [TP Integrador](https://github.com/POO2UNQ/site/blob/488e5f3f6379795236f174e46ecd20d8ddee7f37/TP%202025%201er%20sem/A%20la%20caza%20de%20las%20vinchucas.pdf)
 
+# Semana 8
+Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
+* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
+
+
 <!--
 
 
@@ -91,9 +96,6 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy).
 * [TP Final Sistema de Alquileres](https://github.com/POO2UNQ/site/blob/ae935c656d9f368953ed28e21a7f76a6c0662cc5/TP%20Integradores/TrabajoFinal_2doSem_2024.pdf)
 
-# Semana 8
-Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
-* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 
 
 # Semana 9
