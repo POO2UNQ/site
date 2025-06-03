@@ -89,7 +89,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 
 # Semana 9
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
-* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy).
+* [TP Strategy](https://github.com/POO2UNQ/site/tree/main/strategy).
 
 # Semana 10
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
