@@ -1,21 +1,21 @@
 # Objetos 2 - 1er Semestre 2025
-Bienvenides a Objetos 2! Este es la página correspondiente al 1er semestre del 2025.
+Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 2025.
 
 * Teóricos: Lunes 18 hs aula 51.     
-* Prácticas sincrónicas presenciales (primera clase jueves 3 de Abril de 2025)
-  * Comisión 1: Jueves de 15 a 18 hs. - Aula 60
-  * Comisión 2: Jueves de 18 a 21 hs. - Aula 60
-  * Virtual la semana que no es presencial de 16:30 a 19:30 (inicia jueves 27 de marzo 2025). 
+* Prácticas sincrónicas presenciales (primera clase jueves 21 de agosto de 2025)
+  * Comisión 1: Jueves de 15 a 18 hs. - Aula PC 251
+  * Comisión 2: Jueves de 18 a 21 hs. - Aula PC 251
+  * Virtual la semana que no es presencial de 16:30 a 19:30 (inicia jueves 28 de agosto 2025). 
 * Plataforma de comunicación: Discord 
 
 ## Docentes
-Profes: Diego Cano - Matias Butti - Diego Torres
+Profes: Diego Cano - Matias Butti - Diego Torres - Matias Urbieta
 
-Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - Elias Baron - Lucila Coniglio
+Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro Lopez - Alexander Ferragut
 
-## Aprobación de la materia 2025 1er semestre
+## Aprobación de la materia 2025 2do semestre
 
-* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/57056cbb9569e98c770427096487f0433ea12dd1/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202025%201er%20Sem-2.pdf)
+* [Aprobación de la materia] En breve
 
 
 ---
@@ -27,6 +27,7 @@ Ayus: Fabrizio Britez - Leandro Tittarelli - Rodrigo Bolaños - Yoel Ventoso - E
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega y formato de la entrega.
 
+<!-- 
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
@@ -94,7 +95,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 # Semana 10
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 
-<!--
+
 
 
 * [TP Final Sistema de Alquileres](https://github.com/POO2UNQ/site/blob/ae935c656d9f368953ed28e21a7f76a6c0662cc5/TP%20Integradores/TrabajoFinal_2doSem_2024.pdf)
