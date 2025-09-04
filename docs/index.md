@@ -35,11 +35,12 @@ Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro
 
 * [ GIT - Uso desde la consola ](https://www.youtube.com/watch?v=C-WgNtdGsR4)
 
-<!-- 
+
 # Semana 3
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
 * [TP 4 - Java POO](https://drive.google.com/drive/folders/1OB2GWBO5rKLoybPt0599fQ3GYTqonkJv?usp=drive_link)
   
+<!-- 
 
 # Semana 4
 * [Ejemplo de interfaces](https://github.com/POO2UNQ/site/blob/0c5e1ca5ded991534aefd28b5a531140a412f748/teorias/1-Ejemplo%20de%20interfaces.pdf)
