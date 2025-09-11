@@ -47,7 +47,7 @@ Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro
 * [Contrato a través de interfaces](https://github.com/POO2UNQ/site/blob/0c5e1ca5ded991534aefd28b5a531140a412f748/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
 
-<!-- 
+<!--- 
 
 # Semana 5
 * [Articulos SOLID](https://github.com/POO2UNQ/site/tree/c892e0bc45035b4f57ec9cf2932927384d9f4d51/PapersSolid)
