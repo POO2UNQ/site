@@ -15,7 +15,7 @@ Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro
 
 ## Aprobación de la materia 2025 2do semestre
 
-* [Aprobación de la materia] En breve
+* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/4d1830d7d5164736a7cdfcefccd8fd1174318808/2dosem%202025/Aprobacio%CC%81n%20de%20la%20materia%20-%202025%202do%20Sem-2.pdf)
 
 
 ---
