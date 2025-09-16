@@ -25,7 +25,11 @@ Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro
 
 ## UML
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
-* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega y formato de la entrega.
+* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega.
+  * Pautas de Entrega:
+    * Via de entrega: Discord - Por mensaje privado al docente asignado segun planilla que sera enviada el dia de la publicación de la fecha de entrega.
+    * Formato: Link a repositorio Git (Github, GitLab, Bitbucket, etc) con una imagen del diagrama UML en formato JPG, PNG o un archivo PDF. NO enviar la imagen por DM, ni link a otro tipo de repositorio (drive, dropbox, etc) dentro de un archivo de texto (.pdf, .txt .md, etc). 
+    * En el mensaje aclarar nombre y apellido para poder indentificar el remitente de la entrega.
 
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
