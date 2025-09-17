@@ -28,7 +28,9 @@ Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega.
   * Pautas de Entrega:
     * Via de entrega: Discord - Por mensaje privado al docente asignado segun planilla que sera enviada el dia de la publicación de la fecha de entrega.
-    * Formato: Link a repositorio Git (Github, GitLab, Bitbucket, etc) con una imagen del diagrama UML en formato JPG, PNG o un archivo PDF. NO enviar la imagen por DM, ni link a otro tipo de repositorio (drive, dropbox, etc) dentro de un archivo de texto (.pdf, .txt .md, etc). 
+    * Formato: Link a repositorio Git (Github, GitLab, Bitbucket, etc) con una imagen del diagrama UML en formato JPG, PNG o un archivo PDF con el diagrama.
+      * NO enviar la imagen por DM, ni link a otro tipo de repositorio (drive, dropbox, etc), ni un link dentro de un archivo de texto (.pdf, .txt .md, etc) ni archvio binario generado por algun editor de diagramas.
+      * Si es posible que la imagen se encuentre en una disposición tal que las palabras queden en de manera horizontal para facilitar su lectura.
     * En el mensaje aclarar nombre y apellido para poder indentificar el remitente de la entrega.
 
 # Semana 2
