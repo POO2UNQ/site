@@ -60,15 +60,16 @@ Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro
 * [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados en el mismo TP.
 
-<!--- 
 
 # Semana 6
-Importante: para la resolución del TP es obligatorio complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
-* [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
-* [TP State](https://github.com/POO2UNQ/site/blob/24f0b83e9479b5db85dffab2bf7e62465389b2c8/TP%20State%20y%20Strategy/TP%20State.pdf)
+
 
 Test Doubles & Mockito:
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
+
+<!--- 
+
+
 * [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
 * [PPT - Mockito](https://github.com/POO2UNQ/site/blob/main/mockito/mockito.pdf)
 * [Mockito - Biblioteca v5.14](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito/Mockito%20v5.14)
@@ -76,7 +77,9 @@ Test Doubles & Mockito:
 
 
 
-  
+Importante: para la resolución del TP es obligatorio complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
+* [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
+* [TP State](https://github.com/POO2UNQ/site/blob/24f0b83e9479b5db85dffab2bf7e62465389b2c8/TP%20State%20y%20Strategy/TP%20State.pdf)  
 
 
 # Semana 7
