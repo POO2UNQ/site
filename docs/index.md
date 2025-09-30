@@ -68,8 +68,9 @@ Test Doubles & Mockito:
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
 
 Bibliografia:
-XUnit Test Patterns, Refactoring Test Code
+XUnit Test Patterns, Refactoring Test Code  - Capítulo 11.
 Gerard Meszaros
+Disponible en la biblioteca y en la Web.
 
 
 <!--- 
@@ -93,6 +94,8 @@ Importante: para la resolución del TP es obligatorio complementar los apuntes d
 Bibliografia: 
 Design Patterns: Elements of Reusable Object-Oriented Software
  Erich Gamma , Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
+
+Disponible en la biblioteca y en la Web.
 
 <!--- 
 
