@@ -81,6 +81,7 @@ Gerard Meszaros
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
 -->
+
 # Semana 7
 
 
@@ -92,6 +93,7 @@ Importante: para la resolución del TP es obligatorio complementar los apuntes d
 Bibliografia: 
 Design Patterns: Elements of Reusable Object-Oriented Software
  Erich Gamma , Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
+
 <!--- 
 
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
