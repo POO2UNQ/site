@@ -96,6 +96,8 @@ Design Patterns: Elements of Reusable Object-Oriented Software
 
 Disponible en la biblioteca y en la Web.
 
+* [TP Integrador - Terminal Portuaria](https://github.com/POO2UNQ/site/blob/cdf1a1e3cb746cba03532d5b672a51c49049c3fa/2dosem%202025/Trabajo%20Final%202do%20Sem%202025%20-%20Terminal%20Portuaria.pdf)
+
 <!--- 
 
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
