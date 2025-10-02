@@ -73,7 +73,6 @@ Gerard Meszaros
 Disponible en la biblioteca y en la Web.
 
 
-<!--- 
 
 
 * [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
@@ -81,7 +80,7 @@ Disponible en la biblioteca y en la Web.
 * [Mockito - Biblioteca v5.14](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito/Mockito%20v5.14)
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
 
--->
+
 
 # Semana 7
 
