@@ -103,6 +103,12 @@ Disponible en la biblioteca y en la Web.
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
 * [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
 
+  
+# Semana 9
+Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
+* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
+* [TP Strategy](https://github.com/POO2UNQ/site/blob/b8e078734705f333847e8fdef8287e8e3123f716/TP%20State%20y%20Strategy/strategy_solo.pdf)
+
 <!---
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
