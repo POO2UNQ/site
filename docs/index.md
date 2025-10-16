@@ -98,7 +98,7 @@ Disponible en la biblioteca y en la Web.
 
 * [TP Integrador - Terminal Portuaria(Actualizado 14/10/2025)](https://github.com/POO2UNQ/site/tree/main/2dosem%202025/Trabajo%20Final%202do%20Sem%202025%20-%20Terminal%20Portuaria-v1.1.pdf)
 
- # Semana 8
+# Semana 8
 
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
 * [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
