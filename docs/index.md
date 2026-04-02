@@ -1,5 +1,5 @@
 # Objetos 2 - 1er Semestre 2026
-Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 2026.
+Bienvenides a Objetos 2! Este es la página correspondiente al 1er. semestre del 2026.
 
 * Teóricos: Lunes 18 hs aula 213.     
 * Prácticas sincrónicas presenciales
