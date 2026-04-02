@@ -1,22 +1,23 @@
-# Objetos 2 - 1er Semestre 2025
-Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 2025.
+# Objetos 2 - 1er Semestre 2026
+Bienvenides a Objetos 2! Este es la página correspondiente al 2do semestre del 2026.
 
-* Teóricos: Lunes 18 hs aula 51.     
-* Prácticas sincrónicas presenciales (primera clase jueves 21 de agosto de 2025)
-  * Comisión 1: Jueves de 15 a 18 hs. - Aula PC 251
-  * Comisión 2: Jueves de 18 a 21 hs. - Aula PC 251
-  * Virtual la semana que no es presencial de 16:30 a 19:30 (inicia jueves 28 de agosto 2025). 
+* Teóricos: Lunes 18 hs aula 213.     
+* Prácticas sincrónicas presenciales
+  * Comisión 1: Jueves de 15 a 18 hs. - Aula 213.
+  * Comisión 2: Jueves de 18 a 21 hs. - Aula 213.
+  * Virtual la semana que no es presencial de 16:30 a 19:30.
 * Plataforma de comunicación: Discord 
 
 ## Docentes
-Profes: Diego Cano - Matias Butti - Diego Torres - Matias Urbieta
+Profes: Diego Cano - Matias Butti - Matias Urbieta
 
 Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro Lopez - Alexander Ferragut
 
+<!---
 ## Aprobación de la materia 2025 2do semestre
 
 * [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/4d1830d7d5164736a7cdfcefccd8fd1174318808/2dosem%202025/Aprobacio%CC%81n%20de%20la%20materia%20-%202025%202do%20Sem-2.pdf)
-
+-->
 
 ---
 # Semana 1
@@ -32,6 +33,8 @@ Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro
       * NO enviar la imagen por DM, ni link a otro tipo de repositorio (drive, dropbox, etc), ni un link dentro de un archivo de texto (.pdf, .txt .md, etc) ni archvio binario generado por algun editor de diagramas.
       * Si es posible que la imagen se encuentre en una disposición tal que las palabras queden en de manera horizontal para facilitar su lectura.
     * En el mensaje aclarar nombre y apellido para poder indentificar el remitente de la entrega.
+
+<!---
 
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
@@ -109,7 +112,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
 * [TP Strategy](https://github.com/POO2UNQ/site/blob/b8e078734705f333847e8fdef8287e8e3123f716/TP%20State%20y%20Strategy/strategy_solo.pdf)
 
-<!---
+
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
