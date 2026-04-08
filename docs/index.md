@@ -11,7 +11,7 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 1er. semestre del
 ## Docentes
 Profes: Diego Cano - Matias Butti - Matias Urbieta
 
-Ayus: Fabrizio Britez - Yoel Ventoso - Lucio Cristofanetti - Kevin Paz - Leandro Lopez - Alexander Ferragut
+Ayus: Fabrizio Britez - Yoel Ventoso - Kevin Paz 
 
 <!---
 ## Aprobación de la materia 2025 2do semestre
