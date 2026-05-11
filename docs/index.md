@@ -56,12 +56,13 @@ Ayus: Fabrizio Britez - Yoel Ventoso - Kevin Paz
 * [Contrato a través de interfaces](https://github.com/POO2UNQ/site/blob/0c5e1ca5ded991534aefd28b5a531140a412f748/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
 
-<!---
 
 # Semana 5
 * [Articulos SOLID](https://github.com/POO2UNQ/site/tree/c892e0bc45035b4f57ec9cf2932927384d9f4d51/PapersSolid)
 * [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados en el mismo TP.
+
+
 
 
 # Semana 6
@@ -98,6 +99,9 @@ Design Patterns: Elements of Reusable Object-Oriented Software
  Erich Gamma , Richard Helm, Ralph Johnson, John Vlissides, Grady Booch
 
 Disponible en la biblioteca y en la Web.
+
+<!---
+
 
 * [TP Integrador - Terminal Portuaria(Actualizado 14/10/2025)](https://github.com/POO2UNQ/site/tree/main/2dosem%202025/Trabajo%20Final%202do%20Sem%202025%20-%20Terminal%20Portuaria-v1.1.pdf)
 
