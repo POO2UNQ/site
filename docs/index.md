@@ -78,12 +78,12 @@ Disponible en la biblioteca y en la Web.
 
 
 
-
-* [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
 * [PPT - Mockito](https://github.com/POO2UNQ/site/blob/main/mockito/mockito.pdf)
 * [Mockito - Biblioteca v5.14](https://github.com/POO2UNQ/site/tree/main/mockito/framework%20%26%20dependencies/Mockito/Mockito%20v5.14)
 * [Ejemplos - Guerrero y Otros](https://github.com/POO2UNQ/site/tree/main/mockito/ejemplos)
-
+<!---
+ [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
+ --->
 
 
 # Semana 7
