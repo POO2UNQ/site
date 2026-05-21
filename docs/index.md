@@ -100,7 +100,7 @@ Design Patterns: Elements of Reusable Object-Oriented Software
 
 Disponible en la biblioteca y en la Web.
 
-<!---
+
 
 
 * [TP Integrador - Terminal Portuaria(Actualizado 14/10/2025)](https://github.com/POO2UNQ/site/tree/main/2dosem%202025/Trabajo%20Final%202do%20Sem%202025%20-%20Terminal%20Portuaria-v1.1.pdf)
@@ -110,7 +110,8 @@ Disponible en la biblioteca y en la Web.
 * [Clase Template Method y Adapter](https://drive.google.com/file/d/14wC6kp_7x1-nwCZ-D8Lu_UUO-DeC45nw/view?usp=sharing) 
 * [TP Template Method y Adapter](https://github.com/POO2UNQ/site/blob/9b995ec7b0edf22f9eef17a89d2cb11953ec81b2/TP%20template%20method%20-%20Adapter/TP%20Template%20Method%20y%20Adapter.pdf)
 
-  
+ <!---
+ 
 # Semana 9
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
@@ -120,6 +121,8 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
+
+
 
 ## TP Integrador - Vinchuchas
 [TP Integrador](https://github.com/POO2UNQ/site/blob/488e5f3f6379795236f174e46ecd20d8ddee7f37/TP%202025%201er%20sem/A%20la%20caza%20de%20las%20vinchucas.pdf)
