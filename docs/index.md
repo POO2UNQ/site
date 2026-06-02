@@ -8,7 +8,7 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 1er. semestre del
   * Virtual la semana que no es presencial de 16:30 a 19:30.
 * Plataforma de comunicación: Discord 
 
-## Docentes
+## Docentes 
 Profes: Diego Cano - Matias Butti - Matias Urbieta
 
 Ayus: Fabrizio Britez - Yoel Ventoso - Kevin Paz 
