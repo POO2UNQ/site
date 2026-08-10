@@ -13,17 +13,17 @@ Profes: Diego Cano - Matias Butti - Matias Urbieta
 
 Ayus: Fabrizio Britez - Yoel Ventoso - Kevin Paz 
 
-<!---
-## Aprobación de la materia 2025 2do semestre
 
-* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/4d1830d7d5164736a7cdfcefccd8fd1174318808/2dosem%202025/Aprobacio%CC%81n%20de%20la%20materia%20-%202025%202do%20Sem-2.pdf)
--->
+## Aprobación de la materia 2026 2do semestre
+
+* [Aprobación de la materia](https://github.com/POO2UNQ/site/blob/6784e9d499624c97e090eb7c036a9eeaf7df290a/aprobacion%20de%20la%20materia/Aprobacio%CC%81n%20de%20la%20materia%20-%202026%202do%20Sem-2.pdf)
+
 
 ---
 # Semana 1
 
 * [TP 1 - Entrada en calor](https://github.com/POO2UNQ/site/tree/main/TP01)
-
+<!---
 ## UML
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
 * [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega.
