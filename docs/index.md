@@ -9,9 +9,9 @@ Bienvenides a Objetos 2! Este es la página correspondiente al 1er. semestre del
 * Plataforma de comunicación: Discord 
 
 ## Docentes 
-Profes: Diego Cano - Matias Butti - Matias Urbieta
+Profes: Diego Cano - Matias Butti - Matias Urbieta - Diego Torres - Silvia Urzagasti
 
-Ayus: Fabrizio Britez - Yoel Ventoso - Kevin Paz 
+Colaboradores: Kevin Paz - Alexander Ferragut - Priscila Billordo - Alison Escobar Villarroel
 
 
 ## Aprobación de la materia 2026 2do semestre
