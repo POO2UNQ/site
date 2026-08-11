@@ -34,8 +34,6 @@ Colaboradores: Kevin Paz - Alexander Ferragut - Priscila Billordo - Alison Escob
       * Si es posible que la imagen se encuentre en una disposición tal que las palabras queden en de manera horizontal para facilitar su lectura.
     * En el mensaje aclarar nombre y apellido para poder indentificar el remitente de la entrega.
 
-
-
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
