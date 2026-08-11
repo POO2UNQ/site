@@ -137,53 +137,6 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 # Semana 10
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 
-
-
-
-* [TP Final Sistema de Alquileres](https://github.com/POO2UNQ/site/blob/ae935c656d9f368953ed28e21a7f76a6c0662cc5/TP%20Integradores/TrabajoFinal_2doSem_2024.pdf)
-
-
-
-# Semana 9
-El contenido que estaba acá se pasó a las semanas 7 y 8-
-
-# Semana 10
-* [Examen resuelto: Empresa Ingenieria](https://github.com/POO2UNQ/site/tree/main/examenes/Empresa-Ingenieria)
-* [Explicación examen resuelto Empresa Ingenieria](https://drive.google.com/file/d/1D6SMJNm3xAPuqHfwKWCb6PrEbOS-x_-C/view?usp=drive_link)
-
-* [Examen resuelto: Aeropuerto](https://github.com/POO2UNQ/site/tree/main/examenes/airport). Nota: Hay publicadas dos soluciones similares, ambas validas.
-  
-
-# Semana 10
-* [Clase téorica sobre introducción a arquitectura](https://drive.google.com/file/d/1JUvUj0hhvCTpnh-JeUEH5Pd_fCTmM27Y/view?usp=drive_link)
-
-
----
-* [Slides usados en  la teoría](https://github.com/POO2UNQ/site/blob/eeb042bd0b56ef490fe35ff0cd1416a6e43ce281/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
----
-
----
-# Semana 8
-
-
-Importante: el material de estudio, ademas de los apuntes de la teoria son los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
-
-* [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
-* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy). Sólo el primer ejercicio (Encriptación), el resto será retomado cuando veamos otro patrón en la teoría.
-
-# Trabajo final - Vinchucas
-* [Trabajo Final - Enunciado](https://github.com/POO2UNQ/site/blob/c572c9ad098e5b134aca5897e6b62f70eb0b6ce1/TP%20Integrador%202023/Trabajo%20Grupal%20%20A%20la%20caza%20de%20las%20vinchucas%202023.pdf)
-
----
-# Semana 9
-Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
-
-* [TP State y Strategy](https://github.com/POO2UNQ/site/tree/main/TP%20State%20y%20Strategy)
-* [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
-
-
----
-# Semana 10
-* [TP Refactoring](https://github.com/POO2UNQ/site/blob/main/TP_Refactoring.zip)
-
 ---> 
+
+
