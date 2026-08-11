@@ -24,10 +24,13 @@ Colaboradores: Kevin Paz - Alexander Ferragut - Priscila Billordo - Alison Escob
 
 * [TP 1 - Entrada en calor](https://github.com/POO2UNQ/site/tree/main/TP01)
 
-<!---
+
 ## UML
 * [Teoría UML grabada](https://www.youtube.com/watch?v=oYSLwORU0ZM)  (Correspondiente al año 2020)
-* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En breve publicaremos fecha de entrega.
+* [TP 02 - UML](https://github.com/POO2UNQ/site/blob/main/TP%2002/TP%2002%20UML.pdf) - Entrega individual obligatoria! En
+
+<!---
+   breve publicaremos fecha de entrega.
   * Pautas de Entrega:
     * Via de entrega: Discord - Por mensaje privado al docente asignado segun planilla que sera enviada el dia de la publicación de la fecha de entrega.
     * Formato: Link a repositorio Git (Github, GitLab, Bitbucket, etc) con una imagen del diagrama UML en formato JPG, PNG o un archivo PDF con el diagrama.
