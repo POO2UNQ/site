@@ -37,7 +37,7 @@ Colaboradores: Kevin Paz - Alexander Ferragut - Priscila Billordo - Alison Escob
       * NO enviar la imagen por DM, ni link a otro tipo de repositorio (drive, dropbox, etc), ni un link dentro de un archivo de texto (.pdf, .txt .md, etc) ni archvio binario generado por algun editor de diagramas.
       * Si es posible que la imagen se encuentre en una disposición tal que las palabras queden en de manera horizontal para facilitar su lectura.
     * En el mensaje aclarar nombre y apellido para poder indentificar el remitente de la entrega.
-
+-->
 # Semana 2
 * [Clase 2 - Repaso POO e intro a Java](https://github.com/POO2UNQ/site/blob/7221cbd255ac59c699725ea92891faf70e2dac6b/teorias/Lenguajes%20de%20programaci%C3%B3n%20%20-%20Java%20-%20BigPicture.pdf)
 * [ Startup Java Eclipse GIT](https://youtu.be/3ITG-OFhThc)
@@ -46,7 +46,7 @@ Colaboradores: Kevin Paz - Alexander Ferragut - Priscila Billordo - Alison Escob
 
 * [ GIT - Uso desde la consola ](https://www.youtube.com/watch?v=C-WgNtdGsR4)
 
-
+<!--
 # Semana 3
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
 * [TP 4 - Java POO](https://drive.google.com/drive/folders/1OB2GWBO5rKLoybPt0599fQ3GYTqonkJv?usp=drive_link)
