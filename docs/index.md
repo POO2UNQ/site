@@ -51,14 +51,15 @@ Colaboradores: Kevin Paz - Alexander Ferragut - Priscila Billordo - Alison Escob
 * [Clase 3 - Pilares lenguaje Java](https://github.com/POO2UNQ/site/blob/efc36db38e7ebf3000f7f909863dbaed0894934b/teorias/Pilares%20del%20lenguaje%20Java.pdf)
 * [TP 4 - Java POO](https://drive.google.com/drive/folders/1OB2GWBO5rKLoybPt0599fQ3GYTqonkJv?usp=drive_link)
   
-<!--
+
 
 # Semana 4
 * [Ejemplo de interfaces](https://github.com/POO2UNQ/site/blob/0c5e1ca5ded991534aefd28b5a531140a412f748/teorias/1-Ejemplo%20de%20interfaces.pdf)
 * [Contrato a través de interfaces](https://github.com/POO2UNQ/site/blob/0c5e1ca5ded991534aefd28b5a531140a412f748/teorias/Contratos%20a%20traves%20de%20Interfaces.%20Inyecci%C3%B3n%20de%20dependencias.pdf)
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
+* [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 
-
+<!--
 # Semana 5
 * [Articulos SOLID](https://github.com/POO2UNQ/site/tree/c892e0bc45035b4f57ec9cf2932927384d9f4d51/PapersSolid)
 * [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
@@ -121,7 +122,7 @@ Importante: para la resolución del TP se sugiere complementar los apuntes de la
 * [TP Strategy](https://github.com/POO2UNQ/site/blob/b8e078734705f333847e8fdef8287e8e3123f716/TP%20State%20y%20Strategy/strategy_solo.pdf)
 
 
-* [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
+
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 
