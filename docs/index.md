@@ -59,13 +59,13 @@ Colaboradores: Kevin Paz - Alexander Ferragut - Priscila Billordo - Alison Escob
 * [TP 5 - Clases e Interfaces](https://github.com/POO2UNQ/site/blob/main/TP%20Interfaces/TP%20%E2%80%93%20Clases%20Abstractas%20e%20Interfaces.pdf)
 * [Slide de Streams](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Streams.pdf)
 
-<!--
+
 # Semana 5
 * [Articulos SOLID](https://github.com/POO2UNQ/site/tree/c892e0bc45035b4f57ec9cf2932927384d9f4d51/PapersSolid)
 * [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados en el mismo TP.
 
-
+<!--
 
 
 # Semana 6
