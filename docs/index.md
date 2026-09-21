@@ -65,11 +65,15 @@ Colaboradores: Kevin Paz - Alexander Ferragut - Priscila Billordo - Alison Escob
 * [TP SOLID](https://github.com/POO2UNQ/site/blob/4ec523d19a3e33ddc22ff1531b25695a48580a04/TP%20SOLID/TP%20SOLID.pdf)
 * Las referencias para estudiar estos temas son los capítulos específicos de SOLID de Robert Martin, pasados en el mismo TP.
 
-<!--
+
 
 
 # Semana 6
 
+## Test Doubles
+
+* [Video repaso TDD](https://www.youtube.com/watch?v=GAmUQByEEQs)
+* [Video Test Doubles](https://youtu.be/VYGdELUjZ_8)
 
 Test Doubles & Mockito:
 * [TP - Test Doubles](https://github.com/POO2UNQ/site/blob/main/docs/Test-y-Test-Doubles.pdf)
@@ -87,7 +91,7 @@ Disponible en la biblioteca y en la Web.
 
  [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
 
-
+<!--
 
 # Semana 7
 
