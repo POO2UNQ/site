@@ -91,8 +91,7 @@ Disponible en la biblioteca y en la Web.
 
  [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
 
-* [TP Integrador - UNQ Shop - Plataforma de E-commerce Actualizado 25/9/2026 ]
-  (https://docs.google.com/document/d/1Bzfl3fnoe00hYv-4aTPpCfWXjE7aJEYlmDaRA57xWTU/edit?usp=sharing)
+* [TP Integrador - UNQ Shop - Plataforma de E-commerce Actualizado 25/9/2026 ](https://docs.google.com/document/d/1Bzfl3fnoe00hYv-4aTPpCfWXjE7aJEYlmDaRA57xWTU/edit?usp=sharing)
 
 
 <!--
