@@ -91,6 +91,9 @@ Disponible en la biblioteca y en la Web.
 
  [Mockito - Explicación del framework y como usarlo](https://www.youtube.com/watch?v=Tys62sak1Jk)
 
+* [TP Integrador - UNQ Shop - Plataforma de E-commerce (Actualizado 25/9/2026)]([https://docs.google.com/document/d/13ElVe8NnhGbGRZjQwYN109jnRPEtf6C3OK0XIdIIenc/edit?tab=t.0](https://docs.google.com/document/d/1Bzfl3fnoe00hYv-4aTPpCfWXjE7aJEYlmDaRA57xWTU/edit?usp=sharing)))
+
+
 <!--
 
 # Semana 7
@@ -109,7 +112,6 @@ Disponible en la biblioteca y en la Web.
 
 
 
-* [TP Integrador - UNQ Shop - Plataforma de E-commerce (Actualizado 2/6/2026)](https://docs.google.com/document/d/13ElVe8NnhGbGRZjQwYN109jnRPEtf6C3OK0XIdIIenc/edit?tab=t.0))
 
 
 
