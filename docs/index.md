@@ -94,15 +94,15 @@ Disponible en la biblioteca y en la Web.
 * [TP Integrador - UNQ Shop - Plataforma de E-commerce Actualizado 25/9/2026 ](https://docs.google.com/document/d/1Bzfl3fnoe00hYv-4aTPpCfWXjE7aJEYlmDaRA57xWTU/edit?usp=sharing)
 
 
-<!--
+
 
 # Semana 7
 
 
 
 Importante: para la resolución del TP es obligatorio complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
+
 * [TP Composite](https://github.com/POO2UNQ/site/tree/main/TP%20Composite)
-* [TP State](https://github.com/POO2UNQ/site/blob/24f0b83e9479b5db85dffab2bf7e62465389b2c8/TP%20State%20y%20Strategy/TP%20State.pdf)  
 
 Bibliografia: 
 Design Patterns: Elements of Reusable Object-Oriented Software
@@ -111,9 +111,9 @@ Design Patterns: Elements of Reusable Object-Oriented Software
 Disponible en la biblioteca y en la Web.
 
 
+<!--
 
-
-
+* [TP State](https://github.com/POO2UNQ/site/blob/24f0b83e9479b5db85dffab2bf7e62465389b2c8/TP%20State%20y%20Strategy/TP%20State.pdf)  
 
 # Semana 8
 
