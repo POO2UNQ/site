@@ -124,10 +124,11 @@ Disponible en la biblioteca y en la Web.
 # Semana 9
 Importante: para la resolución del TP se sugiere complementar los apuntes de la teoria con los capítulos correspondientes en el libro Design Patterns de Gamma et. al.
 * [TP Observer](https://github.com/POO2UNQ/site/tree/main/TP%20Observer)
+* [TP Strategy](https://github.com/POO2UNQ/site/blob/b8e078734705f333847e8fdef8287e8e3123f716/TP%20State%20y%20Strategy/strategy_solo.pdf)
 
 <!--
 
-* [TP Strategy](https://github.com/POO2UNQ/site/blob/b8e078734705f333847e8fdef8287e8e3123f716/TP%20State%20y%20Strategy/strategy_solo.pdf)
+
 * [Slide de Enums](https://github.com/POO2UNQ/site/blob/badf76eeb51a455357259c1aec4cec7d8ab51f13/teorias/Enumerativos.pdf)
 * [TP Streams y Enums](https://github.com/POO2UNQ/site/blob/main/TP%20streams%20y%20enums/TP%20Enumerativos%20y%20Streams%20.pdf)
 
